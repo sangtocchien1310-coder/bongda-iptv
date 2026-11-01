@@ -1,25 +1,25 @@
 #EXTM3U
-#EXTINF:-1 group-title="Italian Serie A",Como vs Venezia
-https://live2.zktsva.app/live/294335.m3u8
-#EXTINF:-1 group-title="Vietnam National Champion League",Cong An Ho Chi Minh City vs SHB Da Nang
-https://live2.zktsva.app/live/301238.m3u8
-#EXTINF:-1 group-title="Turkish Super League",Amedspor vs Eyupspor
-https://live2.zktsva.app/live/303098.m3u8
-#EXTINF:-1 group-title="German Bundesliga 2",FC St. Pauli vs 1. FC Nürnberg
-https://live2.zktsva.app/live/307240.m3u8
-#EXTINF:-1 group-title="Spanish La Liga",Getafe vs Sevilla FC
+#EXTINF:-1 group-title="English Premier League",Liverpool vs Arsenal
 https://live2.zktsva.app/live/304565.m3u8
-#EXTINF:-1 group-title="Italian Serie A",Lazio vs Cagliari
-https://live2.zktsva.app/live/300523.m3u8
-#EXTINF:-1 group-title="Italian Serie A",Frosinone vs Torino
-https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 group-title="Bundesliga",1. FC Union Berlin vs FC Köln
-https://live2.zktsva.app/live/796315.m3u8
-#EXTINF:-1 group-title="Spanish La Liga",Racing Santander vs Real Madrid
-https://live2.zktsva.app/live/306290.m3u8
+#EXTINF:-1 group-title="English Premier League",Liverpool vs Arsenal
+https://live2.zktsva.app/live/294335.m3u8
 #EXTINF:-1 group-title="French Ligue 1",Paris FC vs AS Monaco
 https://live2.zktsva.app/live/301263.m3u8
 #EXTINF:-1 group-title="Bundesliga",Eintracht Frankfurt vs Hamburger SV
 https://live2.zktsva.app/live/741294.m3u8
+#EXTINF:-1 group-title="Italian Serie A",Lecce vs Genoa
+https://live2.zktsva.app/live/300523.m3u8
+#EXTINF:-1 group-title="Spanish La Liga",Elche CF vs Valencia CF
+https://live2.zktsva.app/live/289650.m3u8
+#EXTINF:-1 group-title="Portuguese Primera Liga",Viseu vs Rio Ave
+https://live2.zktsva.app/live/303098.m3u8
+#EXTINF:-1 group-title="Mexico Liga MX",Santos Laguna vs Necaxa
+https://live2.zktsva.app/live/307240.m3u8
+#EXTINF:-1 group-title="United States Major League Soccer",New England Revolution vs Inter Miami CF
+https://live2.zktsva.app/live/796315.m3u8
+#EXTINF:-1 group-title="Mexico Liga MX",Cruz Azul vs Club Leon
+https://live2.zktsva.app/live/306290.m3u8
 #EXTINF:-1 group-title="Thai League 1",Chonburi FC vs BG Pathum United
 https://live2.zktsva.app/live/432017.m3u8
+#EXTINF:-1 group-title="AFC Champions League Elite",Pakhtakor vs Al Nassr
+https://live2.zktsva.app/live/301238.m3u8
