@@ -1,25 +1,25 @@
 #EXTM3U
-#EXTINF:-1 group-title="English Premier League",Liverpool vs Arsenal
-https://live2.zktsva.app/live/304565.m3u8
-#EXTINF:-1 group-title="English Premier League",Liverpool vs Arsenal
-https://live2.zktsva.app/live/294335.m3u8
-#EXTINF:-1 group-title="French Ligue 1",Paris FC vs AS Monaco
-https://live2.zktsva.app/live/301263.m3u8
-#EXTINF:-1 group-title="Bundesliga",Eintracht Frankfurt vs Hamburger SV
-https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 group-title="Italian Serie A",Lecce vs Genoa
-https://live2.zktsva.app/live/300523.m3u8
-#EXTINF:-1 group-title="Spanish La Liga",Elche CF vs Valencia CF
-https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 group-title="Portuguese Primera Liga",Viseu vs Rio Ave
-https://live2.zktsva.app/live/303098.m3u8
 #EXTINF:-1 group-title="Mexico Liga MX",Santos Laguna vs Necaxa
 https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 group-title="United States Major League Soccer",New England Revolution vs Inter Miami CF
 https://live2.zktsva.app/live/796315.m3u8
 #EXTINF:-1 group-title="Mexico Liga MX",Cruz Azul vs Club Leon
 https://live2.zktsva.app/live/306290.m3u8
+#EXTINF:-1 group-title="Mongolia Premier League",Hunters FC vs FC Ulaanbaatar
+https://live2.zktsva.app/live/289650.m3u8
+#EXTINF:-1 group-title="Mongolia Premier League",Central Stallions vs Deren FC
+https://live2.zktsva.app/live/303098.m3u8
+#EXTINF:-1 group-title="Ukrainian Premier League",Zorya vs FK Epitsentr Dunayivtsi
+https://live2.zktsva.app/live/300523.m3u8
 #EXTINF:-1 group-title="Thai League 1",Chonburi FC vs BG Pathum United
 https://live2.zktsva.app/live/432017.m3u8
+#EXTINF:-1 group-title="Bulgarian Vtora Liga",Sportist Svoge vs Ludogorets Razgrad II
+https://live2.zktsva.app/live/301263.m3u8
+#EXTINF:-1 group-title="Saudi Arabia Division 1",Al-Jabalain vs Al Bukayriyah
+https://live2.zktsva.app/live/741294.m3u8
 #EXTINF:-1 group-title="AFC Champions League Elite",Pakhtakor vs Al Nassr
 https://live2.zktsva.app/live/301238.m3u8
+#EXTINF:-1 group-title="AFC Champions League Elite",Tractor S.C. vs Neftchi Fergana
+https://live2.zktsva.app/live/294335.m3u8
+#EXTINF:-1 group-title="AFC Champions League Elite",Al-Wasl SC vs Al Quwa Al Jawiya
+https://live2.zktsva.app/live/304565.m3u8
