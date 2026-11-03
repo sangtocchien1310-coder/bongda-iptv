@@ -1,25 +1,25 @@
 #EXTM3U
-#EXTINF:-1 group-title="UEFA Champions League",Galatasaray vs VfB Stuttgart
-https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 group-title="UEFA Champions League",FC Shakhtar Donetsk vs Sporting CP
-https://live2.zktsva.app/live/432017.m3u8
-#EXTINF:-1 group-title="AFC Champions League Elite",Esteghlal Tehran vs Al-Shamal Sports Club
-https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 group-title="AFC Champions League Two",Al-Hussein SC (Irbid) vs Al Shorta
-https://live2.zktsva.app/live/300523.m3u8
-#EXTINF:-1 group-title="AFC Champions League Elite",Al Hilal vs Shabab Al Ahli
-https://live2.zktsva.app/live/301263.m3u8
-#EXTINF:-1 group-title="UEFA Champions League",Atletico Madrid vs FC Bayern Munich
-https://live2.zktsva.app/live/304565.m3u8
-#EXTINF:-1 group-title="UEFA Champions League",FC Barcelona vs Aston Villa
-https://live2.zktsva.app/live/303098.m3u8
-#EXTINF:-1 group-title="UEFA Champions League",FC Barcelona vs Aston Villa
+#EXTINF:-1 group-title="Brazilian Serie A",Chapecoense - SC vs Mirassol - SP
 https://live2.zktsva.app/live/796315.m3u8
-#EXTINF:-1 group-title="UEFA Champions League",Manchester United vs AS Roma
-https://live2.zktsva.app/live/294335.m3u8
 #EXTINF:-1 group-title="Brazilian Serie A",Internacional - RS vs Coritiba SAF - PR
 https://live2.zktsva.app/live/307240.m3u8
+#EXTINF:-1 group-title="Costa Rica Primera Division",Sporting FC vs Municipal Pérez Zeledón
+https://live2.zktsva.app/live/306290.m3u8
+#EXTINF:-1 group-title="AFC Champions League Two",Melbourne Victory vs Persib Bandung
+https://live2.zktsva.app/live/301263.m3u8
+#EXTINF:-1 group-title="AFC Champions League Two",FC Seoul vs The Cong-Viettel
+https://live2.zktsva.app/live/294335.m3u8
+#EXTINF:-1 group-title="AFC Champions League Elite",Pohang Steelers vs Gamba Osaka
+https://live2.zktsva.app/live/304565.m3u8
+#EXTINF:-1 group-title="UEFA Youth League",Fenerbahce U19 vs Liverpool U19
+https://live2.zktsva.app/live/741294.m3u8
 #EXTINF:-1 group-title="AFC Champions League Elite",Buriram United vs Kashima Antlers
 https://live2.zktsva.app/live/301238.m3u8
-#EXTINF:-1 group-title="AFC Champions League Two",Arkadag FK vs Gol Gohar FC
-https://live2.zktsva.app/live/306290.m3u8
+#EXTINF:-1 group-title="Portuguese U23 League",Uniao Leiria U23 vs Estoril U23
+https://live2.zktsva.app/live/300523.m3u8
+#EXTINF:-1 group-title="UEFA Europa League",Stade Rennais FC vs Olympiacos Piraeus
+https://live2.zktsva.app/live/289650.m3u8
+#EXTINF:-1 group-title="AFC Champions League Two",Al Wahda(UAE) vs Al Khaldiya
+https://live2.zktsva.app/live/303098.m3u8
+#EXTINF:-1 group-title="UEFA Champions League",RC Lens vs Como
+https://live2.zktsva.app/live/432017.m3u8
