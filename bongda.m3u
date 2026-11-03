@@ -1,25 +1,25 @@
 #EXTM3U
-#EXTINF:-1 group-title="AFC Champions League Elite",Al-Gharafa Sports Club vs Al Qadsiah
-https://live2.zktsva.app/live/432017.m3u8
-#EXTINF:-1 group-title="AFC Champions League Elite",Al Ittihad vs Al-Ain FC
-https://live2.zktsva.app/live/294335.m3u8
-#EXTINF:-1 group-title="Sweden Allsvenskan",GAIS vs AIK
-https://live2.zktsva.app/live/301263.m3u8
-#EXTINF:-1 group-title="Italian Serie A",Atalanta vs Parma
-https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 group-title="French Ligue 1",Lorient vs Stade Brestois 29
-https://live2.zktsva.app/live/796315.m3u8
-#EXTINF:-1 group-title="English Premier League",Newcastle United vs Everton
-https://live2.zktsva.app/live/304565.m3u8
-#EXTINF:-1 group-title="Spanish La Liga",RC Deportivo vs CA Osasuna
-https://live2.zktsva.app/live/303098.m3u8
-#EXTINF:-1 group-title="Portuguese Primera Liga",Benfica vs Alverca
-https://live2.zktsva.app/live/300523.m3u8
 #EXTINF:-1 group-title="Argentine Division 1",Atletico Tucuman vs Argentinos Juniors
 https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 group-title="Argentine Division 1",Independiente Rivadavia vs CA Banfield
 https://live2.zktsva.app/live/306290.m3u8
 #EXTINF:-1 group-title="Categoría Primera A",Atletico Bucaramanga vs Atletico Nacional Medellin
 https://live2.zktsva.app/live/741294.m3u8
+#EXTINF:-1 group-title="AFC Champions League Elite",Newcastle Jets vs Shanghai Port
+https://live2.zktsva.app/live/301263.m3u8
+#EXTINF:-1 group-title="AFC Champions League Elite",Kashiwa Reysol vs Daejeon Hana Citizen
+https://live2.zktsva.app/live/432017.m3u8
 #EXTINF:-1 group-title="AFC Champions League Elite",Vissel Kobe vs Ratchaburi FC
 https://live2.zktsva.app/live/301238.m3u8
+#EXTINF:-1 group-title="AFC Champions League Elite",Port FC vs Beijing Guoan
+https://live2.zktsva.app/live/304565.m3u8
+#EXTINF:-1 group-title="AFC Champions League Elite",Cong An Ha Noi FC vs Kyoto Sanga
+https://live2.zktsva.app/live/294335.m3u8
+#EXTINF:-1 group-title="UEFA Youth League",Manchester United U19 vs AS Roma U19
+https://live2.zktsva.app/live/303098.m3u8
+#EXTINF:-1 group-title="UEFA Youth League",Atletico de Madrid U19 vs Bayern Munchen U19
+https://live2.zktsva.app/live/796315.m3u8
+#EXTINF:-1 group-title="AFC Champions League Two",Al-Hussein SC (Irbid) vs Al Shorta
+https://live2.zktsva.app/live/300523.m3u8
+#EXTINF:-1 group-title="AFC Champions League Elite",Esteghlal Tehran vs Al-Shamal Sports Club
+https://live2.zktsva.app/live/289650.m3u8
