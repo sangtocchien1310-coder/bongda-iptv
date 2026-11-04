@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Brazilian Serie A",Chapecoense - SC vs Mirassol - SP
-https://live2.zktsva.app/live/796315.m3u8
-#EXTINF:-1 group-title="Brazilian Serie A",Internacional - RS vs Coritiba SAF - PR
-https://live2.zktsva.app/live/307240.m3u8
-#EXTINF:-1 group-title="Costa Rica Primera Division",Sporting FC vs Municipal Pérez Zeledón
-https://live2.zktsva.app/live/306290.m3u8
 #EXTINF:-1 group-title="AFC Champions League Two",Melbourne Victory vs Persib Bandung
 https://live2.zktsva.app/live/301263.m3u8
 #EXTINF:-1 group-title="AFC Champions League Two",FC Seoul vs The Cong-Viettel
@@ -15,6 +9,8 @@ https://live2.zktsva.app/live/304565.m3u8
 https://live2.zktsva.app/live/741294.m3u8
 #EXTINF:-1 group-title="AFC Champions League Elite",Buriram United vs Kashima Antlers
 https://live2.zktsva.app/live/301238.m3u8
+#EXTINF:-1 group-title="AFC Champions League Two",Arkadag FK vs Gol Gohar FC
+https://live2.zktsva.app/live/306290.m3u8
 #EXTINF:-1 group-title="Portuguese U23 League",Uniao Leiria U23 vs Estoril U23
 https://live2.zktsva.app/live/300523.m3u8
 #EXTINF:-1 group-title="UEFA Europa League",Stade Rennais FC vs Olympiacos Piraeus
@@ -23,3 +19,7 @@ https://live2.zktsva.app/live/289650.m3u8
 https://live2.zktsva.app/live/303098.m3u8
 #EXTINF:-1 group-title="UEFA Champions League",RC Lens vs Como
 https://live2.zktsva.app/live/432017.m3u8
+#EXTINF:-1 group-title="Brazilian Serie A",Flamengo - RJ vs Grêmio - RS
+https://live2.zktsva.app/live/796315.m3u8
+#EXTINF:-1 group-title="Brazilian Serie A",São Paulo - SP vs Corinthians - SP
+https://live2.zktsva.app/live/307240.m3u8
