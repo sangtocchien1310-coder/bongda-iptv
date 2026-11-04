@@ -1,25 +1,23 @@
 #EXTM3U
-#EXTINF:-1 group-title="AFC Champions League Two",FC Seoul vs The Cong-Viettel
-https://live2.zktsva.app/live/294335.m3u8
-#EXTINF:-1 group-title="AFC Champions League Elite",Pohang Steelers vs Gamba Osaka
+#EXTINF:-1 group-title="UEFA Champions League",Fenerbahce vs Liverpool
 https://live2.zktsva.app/live/304565.m3u8
-#EXTINF:-1 group-title="UEFA Youth League",Fenerbahce U19 vs Liverpool U19
-https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 group-title="AFC Champions League Elite",Buriram United vs Kashima Antlers
-https://live2.zktsva.app/live/301238.m3u8
-#EXTINF:-1 group-title="AFC Champions League Two",Arkadag FK vs Gol Gohar FC
-https://live2.zktsva.app/live/306290.m3u8
-#EXTINF:-1 group-title="UEFA Youth League",RB Leipzig U19 vs Manchester City U19
-https://live2.zktsva.app/live/307240.m3u8
-#EXTINF:-1 group-title="Portuguese U23 League",Uniao Leiria U23 vs Estoril U23
-https://live2.zktsva.app/live/300523.m3u8
-#EXTINF:-1 group-title="UEFA Europa League",Stade Rennais FC vs Olympiacos Piraeus
-https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 group-title="AFC Champions League Two",Al Wahda(UAE) vs Al Khaldiya
-https://live2.zktsva.app/live/303098.m3u8
-#EXTINF:-1 group-title="AFC Champions League Two",Al Kuwait SC vs Nasaf Qarshi
+#EXTINF:-1 group-title="UEFA Champions League",AEK Athens vs Real Madrid
+https://live2.zktsva.app/live/294335.m3u8
+#EXTINF:-1 group-title="AFC Champions League Two",Al-Muharraq vs Al-Jazira(UAE)
 https://live2.zktsva.app/live/301263.m3u8
-#EXTINF:-1 group-title="UEFA Champions League",RC Lens vs Como
-https://live2.zktsva.app/live/432017.m3u8
+#EXTINF:-1 group-title="AFC Champions League Two",Al Taawoun vs Al-Faisaly Amman
+https://live2.zktsva.app/live/741294.m3u8
+#EXTINF:-1 group-title="UEFA Champions League",Borussia Dortmund vs Real Betis
+https://live2.zktsva.app/live/303098.m3u8
+#EXTINF:-1 group-title="UEFA Champions League",FC Porto vs Napoli
+https://live2.zktsva.app/live/289650.m3u8
+#EXTINF:-1 group-title="UEFA Champions League",PSV Eindhoven vs Club Brugge
+https://live2.zktsva.app/live/300523.m3u8
 #EXTINF:-1 group-title="Brazilian Serie A",Flamengo - RJ vs Grêmio - RS
 https://live2.zktsva.app/live/796315.m3u8
+#EXTINF:-1 group-title="Categoría Primera A",Cucuta Deportivo vs Independiente Santa Fe
+https://live2.zktsva.app/live/306290.m3u8
+#EXTINF:-1 group-title="Brazilian Serie A",São Paulo - SP vs Corinthians - SP
+https://live2.zktsva.app/live/307240.m3u8
+#EXTINF:-1 group-title="AFC Champions League Two",Machida Zelvia vs Shanghai Shenhua
+https://live2.zktsva.app/live/432017.m3u8
