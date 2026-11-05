@@ -1,12 +1,10 @@
 #EXTM3U
-#EXTINF:-1 group-title="Brazilian Serie A",Flamengo - RJ vs Grêmio - RS
-https://live2.zktsva.app/live/796315.m3u8
-#EXTINF:-1 group-title="Categoría Primera A",Cucuta Deportivo vs Independiente Santa Fe
-https://live2.zktsva.app/live/306290.m3u8
-#EXTINF:-1 group-title="Brazilian Serie A",São Paulo - SP vs Corinthians - SP
+#EXTINF:-1 group-title="Mongolia Premier League",Amtat FC vs Khaan Khuns-Erchim FC
 https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 group-title="Aus Champ",Sydney Olympic vs Oakleigh Cannons
 https://live2.zktsva.app/live/741294.m3u8
+#EXTINF:-1 group-title="SAFF Championship",Pakistan vs India
+https://live2.zktsva.app/live/306290.m3u8
 #EXTINF:-1 group-title="AFC Champions League Two",Lion City Sailors vs Adelaide United
 https://live2.zktsva.app/live/289650.m3u8
 #EXTINF:-1 group-title="AFC Champions League Two",Machida Zelvia vs Shanghai Shenhua
@@ -17,3 +15,11 @@ https://live2.zktsva.app/live/303098.m3u8
 https://live2.zktsva.app/live/300523.m3u8
 #EXTINF:-1 group-title="AFC Champions League Two",Preah Khan Reach Svay Rieng FC vs Tampines Rovers FC
 https://live2.zktsva.app/live/301263.m3u8
+#EXTINF:-1 group-title="Uzbekistan Super League",Bunyodkor vs Xorazm Urganch
+https://live2.zktsva.app/live/796315.m3u8
+#EXTINF:-1 group-title="UEFA Europa League",AC Milan vs Ferencvarosi TC
+https://live2.zktsva.app/live/294335.m3u8
+#EXTINF:-1 group-title="UEFA Europa League",Crystal Palace vs TSG Hoffenheim
+https://live2.zktsva.app/live/304565.m3u8
+#EXTINF:-1 group-title="UEFA Europa League",AC Sparta Praha vs Bournemouth AFC
+https://live2.zktsva.app/live/301238.m3u8
