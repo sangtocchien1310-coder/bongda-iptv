@@ -1,25 +1,25 @@
 #EXTM3U
-#EXTINF:-1 group-title="Indian Super League",Mohun Bagan Super Giant vs Odisha FC
-https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 group-title="SAFF Championship",Bhutan vs Bangladesh
-https://live2.zktsva.app/live/303098.m3u8
-#EXTINF:-1 group-title="Romanian Liga II",Chindia Targoviste vs Gloria Popesti-Leordeni
-https://live2.zktsva.app/live/301263.m3u8
-#EXTINF:-1 group-title="Russian Cup",Volga Ulyanovsk vs Chertanovo Moscow
+#EXTINF:-1 group-title="UEFA Europa League",AZ Alkmaar vs Juventus
 https://live2.zktsva.app/live/300523.m3u8
-#EXTINF:-1 group-title="UEFA Champions League",Atalanta vs FC Kairat Almaty
-https://live2.zktsva.app/live/796315.m3u8
-#EXTINF:-1 group-title="UEFA Europa League",AC Milan vs Ferencvarosi TC
-https://live2.zktsva.app/live/294335.m3u8
-#EXTINF:-1 group-title="UEFA Europa League",Anderlecht vs Red Bull Salzburg
-https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 group-title="UEFA Europa League",Crystal Palace vs TSG Hoffenheim
-https://live2.zktsva.app/live/304565.m3u8
-#EXTINF:-1 group-title="UEFA Europa League",AC Sparta Praha vs Bournemouth AFC
+#EXTINF:-1 group-title="UEFA Europa League",Sunderland vs Dinamo Zagreb
+https://live2.zktsva.app/live/301263.m3u8
+#EXTINF:-1 group-title="UEFA Champions League",Getafe vs Brighton Hove Albion
 https://live2.zktsva.app/live/301238.m3u8
+#EXTINF:-1 group-title="UEFA Champions League",AS Monaco vs Nordsjaelland
+https://live2.zktsva.app/live/289650.m3u8
 #EXTINF:-1 group-title="UEFA Europa League",Bayer 04 Leverkusen vs Marseille
 https://live2.zktsva.app/live/432017.m3u8
+#EXTINF:-1 group-title="UEFA Europa League",Benfica vs Lech Poznan
+https://live2.zktsva.app/live/741294.m3u8
+#EXTINF:-1 group-title="UEFA Europa League",RC Celta vs Union Saint-Gilloise
+https://live2.zktsva.app/live/303098.m3u8
+#EXTINF:-1 group-title="UEFA Europa League",Celtic FC vs Besiktas JK
+https://live2.zktsva.app/live/294335.m3u8
 #EXTINF:-1 group-title="Brazilian Serie A",Palmeiras - SP vs Remo - PA
 https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 group-title="Brazilian Serie A",Cruzeiro - MG vs Bahia - BA
 https://live2.zktsva.app/live/306290.m3u8
+#EXTINF:-1 group-title="Australia W-League",Adelaide United Women vs Wellington Phoenix Women
+https://live2.zktsva.app/live/796315.m3u8
+#EXTINF:-1 group-title="Azerbaijan Premier League",Qarabag vs Turan Tovuz
+https://live2.zktsva.app/live/304565.m3u8
