@@ -1,25 +1,25 @@
 #EXTM3U
-#EXTINF:-1 group-title="Australia W-League",Adelaide United Women vs Wellington Phoenix Women
+#EXTINF:-1 group-title="Romanian Super Liga",FC UT Arad vs Petrolul Ploiesti
 https://live2.zktsva.app/live/796315.m3u8
-#EXTINF:-1 group-title="Australia A-League",Sydney FC vs Central Coast Mariners
-https://live2.zktsva.app/live/306290.m3u8
-#EXTINF:-1 group-title="Vietnam National First Class League",Van Hien University vs Huda Hue
-https://live2.zktsva.app/live/301263.m3u8
-#EXTINF:-1 group-title="Indian League Division 1",FC Bengaluru United vs Mohammedan SC
-https://live2.zktsva.app/live/307240.m3u8
-#EXTINF:-1 group-title="Vietnam National Champion League",Hong Linh Ha Tinh vs Thep Xanh Nam Dinh FC
-https://live2.zktsva.app/live/294335.m3u8
-#EXTINF:-1 group-title="Vietnam National Champion League",Dong Nai vs SHB Da Nang
-https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 group-title="Thai League 1",Lamphun Warriors vs Sukhothai FC
-https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 group-title="Indonesian Super League",Madura United vs Arema FC
-https://live2.zktsva.app/live/303098.m3u8
-#EXTINF:-1 group-title="Indian League Division 1",Shillong Lajong FC vs Chanmari FC
+#EXTINF:-1 group-title="Russian Premier League",Lokomotiv Moscow vs Rubin Kazan
 https://live2.zktsva.app/live/300523.m3u8
-#EXTINF:-1 group-title="Azerbaijan Premier League",Qarabag vs Turan Tovuz
-https://live2.zktsva.app/live/304565.m3u8
-#EXTINF:-1 group-title="Indian Super League",FC Goa vs Bengaluru FC
+#EXTINF:-1 group-title="Turkish Super League",Gaziantep Futbol Kulübü vs Kasimpasa
+https://live2.zktsva.app/live/303098.m3u8
+#EXTINF:-1 group-title="German Bundesliga 2",Dynamo Dresden vs SpVgg Greuther Fürth
+https://live2.zktsva.app/live/289650.m3u8
+#EXTINF:-1 group-title="Bundesliga",Hamburger SV vs Borussia Monchengladbach
 https://live2.zktsva.app/live/432017.m3u8
-#EXTINF:-1 group-title="Qatar Stars League",Al-Arabi Sports Club vs Al-Ahli Sports Club(Qatar)
+#EXTINF:-1 group-title="French Ligue 1",Toulouse FC vs RC Strasbourg Alsace
+https://live2.zktsva.app/live/304565.m3u8
+#EXTINF:-1 group-title="English Premier League",Everton vs Coventry City
 https://live2.zktsva.app/live/301238.m3u8
+#EXTINF:-1 group-title="Portuguese Primera Liga",FC Famalicao vs FC Arouca
+https://live2.zktsva.app/live/741294.m3u8
+#EXTINF:-1 group-title="Brazilian Serie A",Vitória - BA vs Fluminense - RJ
+https://live2.zktsva.app/live/307240.m3u8
+#EXTINF:-1 group-title="Mexico Liga MX",Necaxa vs Club Tijuana
+https://live2.zktsva.app/live/306290.m3u8
+#EXTINF:-1 group-title="Categoría Primera A",Fortaleza F.C vs Dep.Independiente Medellin
+https://live2.zktsva.app/live/301263.m3u8
+#EXTINF:-1 group-title="Japanese J1 League",Shimizu S-Pulse vs Tokyo Verdy
+https://live2.zktsva.app/live/294335.m3u8
