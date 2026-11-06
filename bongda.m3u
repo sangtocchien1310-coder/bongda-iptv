@@ -1,18 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Romanian Super Liga",FC UT Arad vs Petrolul Ploiesti
-https://live2.zktsva.app/live/796315.m3u8
-#EXTINF:-1 group-title="Russian Premier League",Lokomotiv Moscow vs Rubin Kazan
-https://live2.zktsva.app/live/300523.m3u8
-#EXTINF:-1 group-title="Turkish Super League",Gaziantep Futbol Kulübü vs Kasimpasa
-https://live2.zktsva.app/live/303098.m3u8
-#EXTINF:-1 group-title="German Bundesliga 2",Dynamo Dresden vs SpVgg Greuther Fürth
-https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 group-title="Bundesliga",Hamburger SV vs Borussia Monchengladbach
-https://live2.zktsva.app/live/432017.m3u8
-#EXTINF:-1 group-title="French Ligue 1",Toulouse FC vs RC Strasbourg Alsace
-https://live2.zktsva.app/live/304565.m3u8
-#EXTINF:-1 group-title="English Premier League",Everton vs Coventry City
-https://live2.zktsva.app/live/301238.m3u8
 #EXTINF:-1 group-title="Portuguese Primera Liga",FC Famalicao vs FC Arouca
 https://live2.zktsva.app/live/741294.m3u8
 #EXTINF:-1 group-title="Brazilian Serie A",Vitória - BA vs Fluminense - RJ
@@ -23,3 +9,17 @@ https://live2.zktsva.app/live/306290.m3u8
 https://live2.zktsva.app/live/301263.m3u8
 #EXTINF:-1 group-title="Japanese J1 League",Shimizu S-Pulse vs Tokyo Verdy
 https://live2.zktsva.app/live/294335.m3u8
+#EXTINF:-1 group-title="Korean K League 1",Jeju SK FC vs Gwangju Football Club
+https://live2.zktsva.app/live/289650.m3u8
+#EXTINF:-1 group-title="Japanese J1 League",FC Tokyo vs Kashima Antlers
+https://live2.zktsva.app/live/796315.m3u8
+#EXTINF:-1 group-title="Korean K League 1",Gimcheon Sangmu Football Club vs FC Anyang
+https://live2.zktsva.app/live/301238.m3u8
+#EXTINF:-1 group-title="Vietnam National Champion League",Ninh Binh FC vs Bac Ninh
+https://live2.zktsva.app/live/300523.m3u8
+#EXTINF:-1 group-title="English Premier League",Leeds United vs Tottenham Hotspur
+https://live2.zktsva.app/live/304565.m3u8
+#EXTINF:-1 group-title="Spanish La Liga",Malaga vs Racing Santander
+https://live2.zktsva.app/live/303098.m3u8
+#EXTINF:-1 group-title="Bundesliga",1. FSV Mainz 05 vs FC Bayern Munich
+https://live2.zktsva.app/live/432017.m3u8
