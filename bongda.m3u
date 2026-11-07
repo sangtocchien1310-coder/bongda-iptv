@@ -1,25 +1,25 @@
 #EXTM3U
-#EXTINF:-1 group-title="Korean K League 1",Gimcheon Sangmu Football Club vs FC Anyang
-https://live2.zktsva.app/live/301238.m3u8
-#EXTINF:-1 group-title="Australia A-League",Melbourne City vs Western Sydney Wanderers FC
-https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 group-title="Vietnam National Champion League",Hoang Anh Gia Lai vs Hanoi FC
-https://live2.zktsva.app/live/307240.m3u8
-#EXTINF:-1 group-title="Australia A-League",Perth Glory vs Newcastle Jets
-https://live2.zktsva.app/live/796315.m3u8
-#EXTINF:-1 group-title="Vietnam National Champion League",Ninh Binh FC vs Bac Ninh
-https://live2.zktsva.app/live/300523.m3u8
-#EXTINF:-1 group-title="Vietnam National Champion League",XM Hai Phong FC vs Song Lam Nghe An
-https://live2.zktsva.app/live/301263.m3u8
-#EXTINF:-1 group-title="Vietnam National Champion League",Cong An Ha Noi FC vs Cong An Ho Chi Minh City
-https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 group-title="English Premier League",Leeds United vs Tottenham Hotspur
-https://live2.zktsva.app/live/294335.m3u8
-#EXTINF:-1 group-title="English Premier League",Leeds United vs Tottenham Hotspur
+#EXTINF:-1 group-title="English Premier League",Arsenal vs Hull City
 https://live2.zktsva.app/live/304565.m3u8
-#EXTINF:-1 group-title="Spanish La Liga",Malaga vs Racing Santander
-https://live2.zktsva.app/live/303098.m3u8
-#EXTINF:-1 group-title="Bundesliga",Borussia Dortmund vs SV 07 Elversberg
-https://live2.zktsva.app/live/306290.m3u8
+#EXTINF:-1 group-title="English Premier League",Fulham vs Newcastle United
+https://live2.zktsva.app/live/294335.m3u8
 #EXTINF:-1 group-title="Bundesliga",1. FSV Mainz 05 vs FC Bayern Munich
 https://live2.zktsva.app/live/432017.m3u8
+#EXTINF:-1 group-title="Bundesliga",Borussia Dortmund vs SV 07 Elversberg
+https://live2.zktsva.app/live/306290.m3u8
+#EXTINF:-1 group-title="Italian Serie A",Cagliari vs Frosinone
+https://live2.zktsva.app/live/300523.m3u8
+#EXTINF:-1 group-title="Italian Serie A",Torino vs Lecce
+https://live2.zktsva.app/live/741294.m3u8
+#EXTINF:-1 group-title="Bundesliga",RB Leipzig vs FC Augsburg
+https://live2.zktsva.app/live/307240.m3u8
+#EXTINF:-1 group-title="Bundesliga",SC Paderborn 07 vs Eintracht Frankfurt
+https://live2.zktsva.app/live/796315.m3u8
+#EXTINF:-1 group-title="Spanish La Liga",RCD Espanyol de Barcelona vs RC Deportivo
+https://live2.zktsva.app/live/289650.m3u8
+#EXTINF:-1 group-title="Turkish Super League",Galatasaray vs Amedspor
+https://live2.zktsva.app/live/303098.m3u8
+#EXTINF:-1 group-title="Categoría Primera A",Atletico Nacional Medellin vs Deportivo Pereira
+https://live2.zktsva.app/live/301238.m3u8
+#EXTINF:-1 group-title="United States Major League Soccer",FC Dallas vs Colorado Rapids
+https://live2.zktsva.app/live/301263.m3u8
