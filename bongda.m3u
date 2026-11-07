@@ -1,25 +1,25 @@
 #EXTM3U
-#EXTINF:-1 group-title="English Premier League",Arsenal vs Hull City
+#EXTINF:-1 group-title="Spanish La Liga",Valencia CF vs Real Madrid
 https://live2.zktsva.app/live/304565.m3u8
-#EXTINF:-1 group-title="English Premier League",Fulham vs Newcastle United
-https://live2.zktsva.app/live/294335.m3u8
-#EXTINF:-1 group-title="Bundesliga",1. FSV Mainz 05 vs FC Bayern Munich
+#EXTINF:-1 group-title="French Ligue 1",Paris Saint Germain vs Troyes
 https://live2.zktsva.app/live/432017.m3u8
-#EXTINF:-1 group-title="Bundesliga",Borussia Dortmund vs SV 07 Elversberg
-https://live2.zktsva.app/live/306290.m3u8
-#EXTINF:-1 group-title="Italian Serie A",Cagliari vs Frosinone
+#EXTINF:-1 group-title="Italian Serie A",AS Roma vs Sassuolo
 https://live2.zktsva.app/live/300523.m3u8
-#EXTINF:-1 group-title="Italian Serie A",Torino vs Lecce
-https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 group-title="Bundesliga",RB Leipzig vs FC Augsburg
-https://live2.zktsva.app/live/307240.m3u8
-#EXTINF:-1 group-title="Bundesliga",SC Paderborn 07 vs Eintracht Frankfurt
-https://live2.zktsva.app/live/796315.m3u8
-#EXTINF:-1 group-title="Spanish La Liga",RCD Espanyol de Barcelona vs RC Deportivo
-https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 group-title="Turkish Super League",Galatasaray vs Amedspor
+#EXTINF:-1 group-title="Portuguese Primera Liga",Sporting CP vs Moreirense
 https://live2.zktsva.app/live/303098.m3u8
+#EXTINF:-1 group-title="United States Major League Soccer",Inter Miami CF vs Charlotte FC
+https://live2.zktsva.app/live/796315.m3u8
+#EXTINF:-1 group-title="Mexico Liga MX",Atlas vs Pachuca
+https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 group-title="Categoría Primera A",Atletico Nacional Medellin vs Deportivo Pereira
 https://live2.zktsva.app/live/301238.m3u8
 #EXTINF:-1 group-title="United States Major League Soccer",FC Dallas vs Colorado Rapids
 https://live2.zktsva.app/live/301263.m3u8
+#EXTINF:-1 group-title="Mexico Liga MX",Pumas U.N.A.M. vs Club America
+https://live2.zktsva.app/live/741294.m3u8
+#EXTINF:-1 group-title="Japanese J1 League",Machida Zelvia vs Sanfrecce Hiroshima
+https://live2.zktsva.app/live/306290.m3u8
+#EXTINF:-1 group-title="Chinese Football Super League",Beijing Guoan vs Chongqing Tonglianglong
+https://live2.zktsva.app/live/289650.m3u8
+#EXTINF:-1 group-title="Chinese Football Super League",Shandong Taishan vs Chengdu Rongcheng
+https://live2.zktsva.app/live/294335.m3u8
