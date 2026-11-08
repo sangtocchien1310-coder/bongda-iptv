@@ -1,25 +1,25 @@
 #EXTM3U
-#EXTINF:-1 group-title="Mexico Liga MX",Atlas vs Pachuca
-https://live2.zktsva.app/live/307240.m3u8
-#EXTINF:-1 group-title="Categoría Primera A",Atletico Nacional Medellin vs Deportivo Pereira
-https://live2.zktsva.app/live/301238.m3u8
-#EXTINF:-1 group-title="United States Major League Soccer",FC Dallas vs Colorado Rapids
-https://live2.zktsva.app/live/301263.m3u8
-#EXTINF:-1 group-title="Mexico Liga MX",Toluca vs Rayados de Monterrey
-https://live2.zktsva.app/live/796315.m3u8
 #EXTINF:-1 group-title="Mexico Liga MX",Pumas U.N.A.M. vs Club America
 https://live2.zktsva.app/live/741294.m3u8
+#EXTINF:-1 group-title="Australia A-League",Macarthur FC vs Brisbane Roar
+https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 group-title="Japanese J1 League",Machida Zelvia vs Sanfrecce Hiroshima
 https://live2.zktsva.app/live/306290.m3u8
 #EXTINF:-1 group-title="Korean K League 1",FC Seoul vs Ulsan HD FC
 https://live2.zktsva.app/live/300523.m3u8
+#EXTINF:-1 group-title="Japanese J1 League",Gamba Osaka vs Cerezo Osaka
+https://live2.zktsva.app/live/301238.m3u8
 #EXTINF:-1 group-title="Chinese Football Super League",Beijing Guoan vs Chongqing Tonglianglong
 https://live2.zktsva.app/live/289650.m3u8
 #EXTINF:-1 group-title="Chinese Football Super League",Dalian Yingbo vs Tianjin Jinmen Tiger
 https://live2.zktsva.app/live/303098.m3u8
 #EXTINF:-1 group-title="Chinese Football Super League",Shandong Taishan vs Chengdu Rongcheng
 https://live2.zktsva.app/live/294335.m3u8
+#EXTINF:-1 group-title="Korean K League 1",Gangwon FC vs Jeonbuk Hyundai Motors
+https://live2.zktsva.app/live/796315.m3u8
 #EXTINF:-1 group-title="SAFF Championship",Maldives vs Pakistan
 https://live2.zktsva.app/live/432017.m3u8
+#EXTINF:-1 group-title="Italian Serie A",Napoli vs Lazio
+https://live2.zktsva.app/live/301263.m3u8
 #EXTINF:-1 group-title="English Premier League",Crystal Palace vs Liverpool
 https://live2.zktsva.app/live/304565.m3u8
