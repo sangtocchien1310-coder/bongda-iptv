@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Portuguese Primera Liga",CF Estrela Amadora SAD vs Benfica
-https://live2.zktsva.app/live/796315.m3u8
-#EXTINF:-1 group-title="Argentine Division 1",CA Central Cordoba SDE vs Club Atlético Lanús
-https://live2.zktsva.app/live/301238.m3u8
 #EXTINF:-1 group-title="Categoría Primera A",Alianza Fútbol Club vs Llaneros FC
 https://live2.zktsva.app/live/300523.m3u8
 #EXTINF:-1 group-title="Mexico Liga MX",Club Leon vs Club Deportivo Guadalajara
@@ -17,9 +13,13 @@ https://live2.zktsva.app/live/307240.m3u8
 https://live2.zktsva.app/live/294335.m3u8
 #EXTINF:-1 group-title="Bulgarian Vtora Liga",FK Chernomorets 1919 Burgas vs Yantra Gabrovo
 https://live2.zktsva.app/live/432017.m3u8
+#EXTINF:-1 group-title="English U21 Professional Development League 2",Coventry U21 vs Queens Park Rangers U21
+https://live2.zktsva.app/live/796315.m3u8
 #EXTINF:-1 group-title="Greek Super League 2",A.P.S. Zakynthos vs Niki Volou
 https://live2.zktsva.app/live/289650.m3u8
 #EXTINF:-1 group-title="Bulgarian Vtora Liga",Etar vs PFK Montana
 https://live2.zktsva.app/live/303098.m3u8
 #EXTINF:-1 group-title="International Friendly",Vietnam U23 vs Thailand U23
 https://live2.zktsva.app/live/304565.m3u8
+#EXTINF:-1 group-title="UEFA Women's Champions League",Real Madrid Women vs Paris FC Women
+https://live2.zktsva.app/live/301238.m3u8
