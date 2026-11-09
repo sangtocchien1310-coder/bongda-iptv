@@ -1,25 +1,23 @@
 #EXTM3U
-#EXTINF:-1 group-title="Mongolia Premier League",Ulaangom City vs Khovd Broncos
-https://live2.zktsva.app/live/301263.m3u8
-#EXTINF:-1 group-title="Armenian First League",Bentonit Idzhevan vs Araks Ararat
-https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 group-title="Armenian First League",MIKA Ashtarak vs Shirak Gjumri B
-https://live2.zktsva.app/live/306290.m3u8
-#EXTINF:-1 group-title="Iran Azadegan League",Kara Gostar vs Naft Gachsaran
-https://live2.zktsva.app/live/307240.m3u8
-#EXTINF:-1 group-title="Iran Azadegan League",Saipa vs Havadar Tehran
+#EXTINF:-1 group-title="Danish 1st Division",Hvidovre IF vs Aarhus Fremad
 https://live2.zktsva.app/live/294335.m3u8
-#EXTINF:-1 group-title="Bulgarian Vtora Liga",FK Chernomorets 1919 Burgas vs Yantra Gabrovo
-https://live2.zktsva.app/live/432017.m3u8
-#EXTINF:-1 group-title="English U21 Professional Development League 2",Coventry U21 vs Queens Park Rangers U21
-https://live2.zktsva.app/live/796315.m3u8
-#EXTINF:-1 group-title="Greek Super League 2",A.P.S. Zakynthos vs Niki Volou
-https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 group-title="Egyptian Scores Cup",ZED FC vs Samanod (EG)
+#EXTINF:-1 group-title="Norwegian Eliteserien",Kristiansund BK vs Vålerenga Fotball Elite
 https://live2.zktsva.app/live/300523.m3u8
+#EXTINF:-1 group-title="Spanish Segunda Division",Sabadell vs Real Sociedad B
+https://live2.zktsva.app/live/289650.m3u8
+#EXTINF:-1 group-title="Italian Serie C",Asd Pineto Calcio vs Vis Pesaro
+https://live2.zktsva.app/live/741294.m3u8
+#EXTINF:-1 group-title="FA Cup",Plymouth Parkway vs Berkhamsted Town
+https://live2.zktsva.app/live/796315.m3u8
+#EXTINF:-1 group-title="Liga Portugal 2",SCU Torreense vs Uniao Leiria
+https://live2.zktsva.app/live/432017.m3u8
+#EXTINF:-1 group-title="Categoría Primera A",Atletico Junior Barranquilla vs Cucuta Deportivo
+https://live2.zktsva.app/live/306290.m3u8
+#EXTINF:-1 group-title="Bolivian Primera Division",Aurora vs Universitario De Vinto
+https://live2.zktsva.app/live/307240.m3u8
+#EXTINF:-1 group-title="MEX Liga Premier",Chapulineros vs Cordobes Futbol Club
+https://live2.zktsva.app/live/301263.m3u8
 #EXTINF:-1 group-title="International Friendly",Vietnam U23 vs Thailand U23
 https://live2.zktsva.app/live/304565.m3u8
 #EXTINF:-1 group-title="UEFA Women's Champions League",Real Madrid Women vs Paris FC Women
 https://live2.zktsva.app/live/301238.m3u8
-#EXTINF:-1 group-title="J.League Yamazaki Biscuit Levain Cup",Vissel Kobe vs Machida Zelvia
-https://live2.zktsva.app/live/303098.m3u8
