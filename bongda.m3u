@@ -1,23 +1,21 @@
 #EXTM3U
-#EXTINF:-1 group-title="UEFA Women's Champions League",BK Hacken Women vs Chelsea FC Women
-https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 group-title="UEFA Women's Champions League",Real Madrid Women vs Paris FC Women
-https://live2.zktsva.app/live/301238.m3u8
-#EXTINF:-1 group-title="English Football League Trophy",Huddersfield Town vs Liverpool U21
-https://live2.zktsva.app/live/301263.m3u8
-#EXTINF:-1 group-title="UEFA Women's Champions League",AS Roma Women vs Servette Women
-https://live2.zktsva.app/live/796315.m3u8
-#EXTINF:-1 group-title="UEFA Women's Champions League",Inter Milan Women vs Manchester City Women
-https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 group-title="UEFA Women's Champions League",Paris Saint Germain Women vs Bayern Munchen Women
-https://live2.zktsva.app/live/300523.m3u8
 #EXTINF:-1 group-title="International Friendly",Sint Maarten vs Anguilla
 https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 group-title="Colombian Copa BetPlay DIMAYOR",Deportiva Once Caldas vs Atletico Nacional Medellin
 https://live2.zktsva.app/live/306290.m3u8
+#EXTINF:-1 group-title="SAFF Championship",India vs Maldives
+https://live2.zktsva.app/live/289650.m3u8
 #EXTINF:-1 group-title="J.League Yamazaki Biscuit Levain Cup",Kawasaki Frontale vs Kashiwa Reysol
 https://live2.zktsva.app/live/432017.m3u8
+#EXTINF:-1 group-title="J.League Yamazaki Biscuit Levain Cup",Vissel Kobe vs Machida Zelvia
+https://live2.zktsva.app/live/301263.m3u8
+#EXTINF:-1 group-title="J.League Yamazaki Biscuit Levain Cup",Urawa Red Diamonds vs Cerezo Osaka
+https://live2.zktsva.app/live/741294.m3u8
+#EXTINF:-1 group-title="UEFA European U19 Football Championship",Belgium U19 vs Kosovo U19
+https://live2.zktsva.app/live/796315.m3u8
 #EXTINF:-1 group-title="International Friendly",Vietnam vs Chinese Taipei
 https://live2.zktsva.app/live/304565.m3u8
 #EXTINF:-1 group-title="International Friendly",Vietnam vs Chinese Taipei
 https://live2.zktsva.app/live/294335.m3u8
+#EXTINF:-1 group-title="UEFA European U19 Football Championship",Slovenia U19 vs England U19
+https://live2.zktsva.app/live/300523.m3u8
