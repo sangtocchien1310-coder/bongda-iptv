@@ -1,23 +1,23 @@
 #EXTM3U
-#EXTINF:-1 group-title="Danish 1st Division",Hvidovre IF vs Aarhus Fremad
-https://live2.zktsva.app/live/294335.m3u8
-#EXTINF:-1 group-title="Norwegian Eliteserien",Kristiansund BK vs Vålerenga Fotball Elite
-https://live2.zktsva.app/live/300523.m3u8
-#EXTINF:-1 group-title="Spanish Segunda Division",Sabadell vs Real Sociedad B
-https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 group-title="Italian Serie C",Asd Pineto Calcio vs Vis Pesaro
-https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 group-title="FA Cup",Plymouth Parkway vs Berkhamsted Town
-https://live2.zktsva.app/live/796315.m3u8
-#EXTINF:-1 group-title="Liga Portugal 2",SCU Torreense vs Uniao Leiria
-https://live2.zktsva.app/live/432017.m3u8
-#EXTINF:-1 group-title="Categoría Primera A",Atletico Junior Barranquilla vs Cucuta Deportivo
-https://live2.zktsva.app/live/306290.m3u8
-#EXTINF:-1 group-title="Bolivian Primera Division",Aurora vs Universitario De Vinto
-https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 group-title="MEX Liga Premier",Chapulineros vs Cordobes Futbol Club
 https://live2.zktsva.app/live/301263.m3u8
+#EXTINF:-1 group-title="Mongolia Premier League",Deren FC vs FC Ulaanbaatar
+https://live2.zktsva.app/live/796315.m3u8
+#EXTINF:-1 group-title="International Friendly",Qatar U23 vs Singapore U23
+https://live2.zktsva.app/live/300523.m3u8
+#EXTINF:-1 group-title="Portuguese U23 League",Santa Clara U23 vs Torreense U23
+https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 group-title="International Friendly",Vietnam U23 vs Thailand U23
 https://live2.zktsva.app/live/304565.m3u8
+#EXTINF:-1 group-title="International Friendly",Vietnam U23 vs Thailand U23
+https://live2.zktsva.app/live/294335.m3u8
+#EXTINF:-1 group-title="Algerian Ligue Professionnelle 2",Djijel vs CR Beni Thour
+https://live2.zktsva.app/live/289650.m3u8
+#EXTINF:-1 group-title="Algerian Ligue Professionnelle 2",MO Bejaia vs IRB Nezla
+https://live2.zktsva.app/live/306290.m3u8
+#EXTINF:-1 group-title="Egyptian Scores Cup",El Mokawloon El Arab vs Telecom Egypt
+https://live2.zktsva.app/live/741294.m3u8
 #EXTINF:-1 group-title="UEFA Women's Champions League",Real Madrid Women vs Paris FC Women
 https://live2.zktsva.app/live/301238.m3u8
+#EXTINF:-1 group-title="J.League Yamazaki Biscuit Levain Cup",Kawasaki Frontale vs Kashiwa Reysol
+https://live2.zktsva.app/live/432017.m3u8
