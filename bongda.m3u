@@ -1,23 +1,23 @@
 #EXTM3U
-#EXTINF:-1 group-title="MEX Liga Premier",Chapulineros vs Cordobes Futbol Club
-https://live2.zktsva.app/live/301263.m3u8
-#EXTINF:-1 group-title="Mongolia Premier League",Deren FC vs FC Ulaanbaatar
-https://live2.zktsva.app/live/796315.m3u8
-#EXTINF:-1 group-title="International Friendly",Qatar U23 vs Singapore U23
-https://live2.zktsva.app/live/300523.m3u8
 #EXTINF:-1 group-title="Portuguese U23 League",Santa Clara U23 vs Torreense U23
 https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 group-title="International Friendly",Vietnam U23 vs Thailand U23
-https://live2.zktsva.app/live/304565.m3u8
-#EXTINF:-1 group-title="International Friendly",Vietnam U23 vs Thailand U23
 https://live2.zktsva.app/live/294335.m3u8
+#EXTINF:-1 group-title="International Friendly",Vietnam U23 vs Thailand U23
+https://live2.zktsva.app/live/306290.m3u8
 #EXTINF:-1 group-title="Algerian Ligue Professionnelle 2",Djijel vs CR Beni Thour
 https://live2.zktsva.app/live/289650.m3u8
 #EXTINF:-1 group-title="Algerian Ligue Professionnelle 2",MO Bejaia vs IRB Nezla
-https://live2.zktsva.app/live/306290.m3u8
+https://live2.zktsva.app/live/796315.m3u8
+#EXTINF:-1 group-title="Algerian Ligue Professionnelle 2",WA Tlemcen vs RC Arba
+https://live2.zktsva.app/live/300523.m3u8
 #EXTINF:-1 group-title="Egyptian Scores Cup",El Mokawloon El Arab vs Telecom Egypt
 https://live2.zktsva.app/live/741294.m3u8
 #EXTINF:-1 group-title="UEFA Women's Champions League",Real Madrid Women vs Paris FC Women
 https://live2.zktsva.app/live/301238.m3u8
+#EXTINF:-1 group-title="English Football League Trophy",Huddersfield Town vs Liverpool U21
+https://live2.zktsva.app/live/301263.m3u8
 #EXTINF:-1 group-title="J.League Yamazaki Biscuit Levain Cup",Kawasaki Frontale vs Kashiwa Reysol
 https://live2.zktsva.app/live/432017.m3u8
+#EXTINF:-1 group-title="International Friendly",Vietnam vs Chinese Taipei
+https://live2.zktsva.app/live/304565.m3u8
