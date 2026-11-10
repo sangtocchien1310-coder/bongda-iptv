@@ -1,23 +1,23 @@
 #EXTM3U
-#EXTINF:-1 group-title="Portuguese U23 League",Santa Clara U23 vs Torreense U23
-https://live2.zktsva.app/live/307240.m3u8
-#EXTINF:-1 group-title="International Friendly",Vietnam U23 vs Thailand U23
-https://live2.zktsva.app/live/294335.m3u8
-#EXTINF:-1 group-title="International Friendly",Vietnam U23 vs Thailand U23
-https://live2.zktsva.app/live/306290.m3u8
-#EXTINF:-1 group-title="Algerian Ligue Professionnelle 2",Djijel vs CR Beni Thour
+#EXTINF:-1 group-title="UEFA Women's Champions League",BK Hacken Women vs Chelsea FC Women
 https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 group-title="Algerian Ligue Professionnelle 2",MO Bejaia vs IRB Nezla
-https://live2.zktsva.app/live/796315.m3u8
-#EXTINF:-1 group-title="Algerian Ligue Professionnelle 2",WA Tlemcen vs RC Arba
-https://live2.zktsva.app/live/300523.m3u8
-#EXTINF:-1 group-title="Egyptian Scores Cup",El Mokawloon El Arab vs Telecom Egypt
-https://live2.zktsva.app/live/741294.m3u8
 #EXTINF:-1 group-title="UEFA Women's Champions League",Real Madrid Women vs Paris FC Women
 https://live2.zktsva.app/live/301238.m3u8
 #EXTINF:-1 group-title="English Football League Trophy",Huddersfield Town vs Liverpool U21
 https://live2.zktsva.app/live/301263.m3u8
+#EXTINF:-1 group-title="UEFA Women's Champions League",AS Roma Women vs Servette Women
+https://live2.zktsva.app/live/796315.m3u8
+#EXTINF:-1 group-title="UEFA Women's Champions League",Inter Milan Women vs Manchester City Women
+https://live2.zktsva.app/live/741294.m3u8
+#EXTINF:-1 group-title="UEFA Women's Champions League",Paris Saint Germain Women vs Bayern Munchen Women
+https://live2.zktsva.app/live/300523.m3u8
+#EXTINF:-1 group-title="International Friendly",Sint Maarten vs Anguilla
+https://live2.zktsva.app/live/307240.m3u8
+#EXTINF:-1 group-title="Colombian Copa BetPlay DIMAYOR",Deportiva Once Caldas vs Atletico Nacional Medellin
+https://live2.zktsva.app/live/306290.m3u8
 #EXTINF:-1 group-title="J.League Yamazaki Biscuit Levain Cup",Kawasaki Frontale vs Kashiwa Reysol
 https://live2.zktsva.app/live/432017.m3u8
 #EXTINF:-1 group-title="International Friendly",Vietnam vs Chinese Taipei
 https://live2.zktsva.app/live/304565.m3u8
+#EXTINF:-1 group-title="International Friendly",Vietnam vs Chinese Taipei
+https://live2.zktsva.app/live/294335.m3u8
