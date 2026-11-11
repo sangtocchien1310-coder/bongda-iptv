@@ -1,25 +1,25 @@
 #EXTM3U
-#EXTINF:-1 group-title="International Friendly",Vietnam vs Chinese Taipei
-https://live2.zktsva.app/live/304565.m3u8
-#EXTINF:-1 group-title="International Friendly",Vietnam vs Chinese Taipei
-https://live2.zktsva.app/live/294335.m3u8
-#EXTINF:-1 group-title="AFC U17 Asian Cup",Singapore U17 vs India U17
-https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 group-title="AFC U17 Asian Cup",Lebanon U17 vs Oman U17
-https://live2.zktsva.app/live/307240.m3u8
-#EXTINF:-1 group-title="UEFA European U19 Football Championship",Turkiye U19 vs Slovakia U19
+#EXTINF:-1 group-title="UEFA Women's Champions League",Juventus Women vs OL Lyonnes Women
 https://live2.zktsva.app/live/796315.m3u8
-#EXTINF:-1 group-title="SAFF Championship",Bangladesh vs Sri Lanka
-https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 group-title="UEFA European U19 Football Championship",Italy U19 vs Romania U19
-https://live2.zktsva.app/live/300523.m3u8
-#EXTINF:-1 group-title="UEFA European U19 Football Championship",Spain U19 vs Iceland U19
-https://live2.zktsva.app/live/301263.m3u8
-#EXTINF:-1 group-title="English Football League Trophy",Sheffield Wednesday vs Accrington Stanley
-https://live2.zktsva.app/live/301238.m3u8
 #EXTINF:-1 group-title="International Friendly",New Zealand vs India
 https://live2.zktsva.app/live/306290.m3u8
 #EXTINF:-1 group-title="International Friendly",Thailand U23 vs Qatar U23
 https://live2.zktsva.app/live/432017.m3u8
+#EXTINF:-1 group-title="Aus Champ",APIA Leichhardt Tigers vs Adelaide City FC
+https://live2.zktsva.app/live/289650.m3u8
+#EXTINF:-1 group-title="Korean WK League",Hwacheon KSPO WFC Women vs Gyeongju Korea Hydro & Nuclear Power WFC Women
+https://live2.zktsva.app/live/307240.m3u8
+#EXTINF:-1 group-title="Danish Reserves League",Viborg Reserve vs Vejle Reserve
+https://live2.zktsva.app/live/300523.m3u8
+#EXTINF:-1 group-title="International Friendly",Singapore U23 vs Vietnam U23
+https://live2.zktsva.app/live/294335.m3u8
+#EXTINF:-1 group-title="International Friendly",Singapore U23 vs Vietnam U23
+https://live2.zktsva.app/live/304565.m3u8
+#EXTINF:-1 group-title="Elite League U20",Italy U20 vs Portugal U20
+https://live2.zktsva.app/live/741294.m3u8
+#EXTINF:-1 group-title="CAF Africa Cup of Nations",Guinea vs Eritrea
+https://live2.zktsva.app/live/301263.m3u8
+#EXTINF:-1 group-title="UEFA Nations League",Italy vs France
+https://live2.zktsva.app/live/301238.m3u8
 #EXTINF:-1 group-title="UEFA Nations League",Montenegro vs Latvia
 https://live2.zktsva.app/live/303098.m3u8
