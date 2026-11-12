@@ -1,25 +1,25 @@
 #EXTM3U
-#EXTINF:-1 group-title="UEFA Nations League",Turkiye vs Belgium
-https://live2.zktsva.app/live/432017.m3u8
-#EXTINF:-1 group-title="UEFA Nations League",Armenia vs Cyprus
-https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 group-title="CAF Africa Cup of Nations",Guinea vs Eritrea
-https://live2.zktsva.app/live/301263.m3u8
-#EXTINF:-1 group-title="CAF Africa Cup of Nations",Cote d'Ivoire vs Gambia
-https://live2.zktsva.app/live/796315.m3u8
-#EXTINF:-1 group-title="UEFA Nations League",Italy vs France
-https://live2.zktsva.app/live/301238.m3u8
-#EXTINF:-1 group-title="UEFA Nations League",Czechia vs Spain
-https://live2.zktsva.app/live/304565.m3u8
-#EXTINF:-1 group-title="UEFA Nations League",England vs Croatia
-https://live2.zktsva.app/live/294335.m3u8
-#EXTINF:-1 group-title="UEFA Nations League",Albania vs Finland
-https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 group-title="UEFA Nations League",San Marino vs Belarus
-https://live2.zktsva.app/live/300523.m3u8
-#EXTINF:-1 group-title="UEFA Nations League",Montenegro vs Latvia
-https://live2.zktsva.app/live/303098.m3u8
-#EXTINF:-1 group-title="CONCACAF Nations League",Aruba vs Martinique
-https://live2.zktsva.app/live/307240.m3u8
-#EXTINF:-1 group-title="International Friendly",Saudi Arabia vs South Korea
+#EXTINF:-1 group-title="CONCACAF Nations League",Antigua and Barbuda vs Trinidad and Tobago
 https://live2.zktsva.app/live/306290.m3u8
+#EXTINF:-1 group-title="CONCACAF Nations League",Curacao vs Panama
+https://live2.zktsva.app/live/307240.m3u8
+#EXTINF:-1 group-title="Mongolia Premier League",Deren FC vs Central Stallions
+https://live2.zktsva.app/live/796315.m3u8
+#EXTINF:-1 group-title="Aus Champ",Oakleigh Cannons vs Marconi Stallions
+https://live2.zktsva.app/live/741294.m3u8
+#EXTINF:-1 group-title="Aus Champ",Preston Lions vs Queensland Lions SC
+https://live2.zktsva.app/live/301263.m3u8
+#EXTINF:-1 group-title="International Friendly",Singapore vs Paraguay
+https://live2.zktsva.app/live/289650.m3u8
+#EXTINF:-1 group-title="CAF Africa Cup of Nations",Mozambique vs Ethiopia
+https://live2.zktsva.app/live/303098.m3u8
+#EXTINF:-1 group-title="International Friendly",United Arab Emirates vs Honduras
+https://live2.zktsva.app/live/294335.m3u8
+#EXTINF:-1 group-title="International Friendly",Qatar vs Australia
+https://live2.zktsva.app/live/304565.m3u8
+#EXTINF:-1 group-title="International Friendly",Iraq vs Lebanon
+https://live2.zktsva.app/live/432017.m3u8
+#EXTINF:-1 group-title="CAF Africa Cup of Nations",Nigeria vs Tanzania
+https://live2.zktsva.app/live/300523.m3u8
+#EXTINF:-1 group-title="International Friendly",Kuwait vs Syria
+https://live2.zktsva.app/live/301238.m3u8
