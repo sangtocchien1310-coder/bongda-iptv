@@ -1,25 +1,25 @@
 #EXTM3U
-#EXTINF:-1 group-title="UEFA Nations League",Kosovo vs Israel
-https://live2.zktsva.app/live/307240.m3u8
-#EXTINF:-1 group-title="SAFF Championship",Bangladesh vs Pakistan
-https://live2.zktsva.app/live/796315.m3u8
-#EXTINF:-1 group-title="International Friendly",Palestine vs IR Iran
-https://live2.zktsva.app/live/432017.m3u8
-#EXTINF:-1 group-title="Spanish Segunda Division",Real Sociedad B vs Sporting Gijon
-https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 group-title="United Arab Emirates ADIB Cup",Al-Wasl SC vs Al-Nasr Dubai
-https://live2.zktsva.app/live/303098.m3u8
-#EXTINF:-1 group-title="United Arab Emirates ADIB Cup",Hatta vs Al-Ain FC
-https://live2.zktsva.app/live/300523.m3u8
-#EXTINF:-1 group-title="CAF Africa Cup of Nations",Uganda vs Botswana
-https://live2.zktsva.app/live/301263.m3u8
-#EXTINF:-1 group-title="UEFA Nations League",Norway vs Wales
-https://live2.zktsva.app/live/294335.m3u8
-#EXTINF:-1 group-title="UEFA Nations League",Georgia vs Hungary
-https://live2.zktsva.app/live/741294.m3u8
 #EXTINF:-1 group-title="UEFA Nations League",Portugal vs Denmark
 https://live2.zktsva.app/live/304565.m3u8
+#EXTINF:-1 group-title="UEFA Nations League",Sweden vs Bosnia and Herzegovina
+https://live2.zktsva.app/live/741294.m3u8
+#EXTINF:-1 group-title="UEFA Nations League",Romania vs Poland
+https://live2.zktsva.app/live/432017.m3u8
 #EXTINF:-1 group-title="UEFA Nations League",Austria vs Ireland
 https://live2.zktsva.app/live/301238.m3u8
-#EXTINF:-1 group-title="CONCACAF Nations League",Saint Vincent and the Grenadines vs Belize
+#EXTINF:-1 group-title="UEFA Nations League",Northern Ireland vs Ukraine
+https://live2.zktsva.app/live/301263.m3u8
+#EXTINF:-1 group-title="CAF Africa Cup of Nations",Angola vs South Sudan
+https://live2.zktsva.app/live/303098.m3u8
+#EXTINF:-1 group-title="CAF Africa Cup of Nations",Algeria vs Togo
+https://live2.zktsva.app/live/300523.m3u8
+#EXTINF:-1 group-title="CONCACAF Nations League",Haiti vs USA
 https://live2.zktsva.app/live/306290.m3u8
+#EXTINF:-1 group-title="Mexico Liga MX",Queretaro FC vs Rayados de Monterrey
+https://live2.zktsva.app/live/307240.m3u8
+#EXTINF:-1 group-title="Brazilian Serie A",Chapecoense - SC vs Vasco da Gama Saf - RJ
+https://live2.zktsva.app/live/796315.m3u8
+#EXTINF:-1 group-title="International Friendly",New Zealand vs India
+https://live2.zktsva.app/live/289650.m3u8
+#EXTINF:-1 group-title="J.League Yamazaki Biscuit Levain Cup",Machida Zelvia vs Vissel Kobe
+https://live2.zktsva.app/live/294335.m3u8
