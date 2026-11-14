@@ -1,20 +1,14 @@
 #EXTM3U
-#EXTINF:-1 group-title="International Friendly",Colombia vs Chile
-https://live2.zktsva.app/live/306290.m3u8
-#EXTINF:-1 group-title="International Friendly",Ecuador vs Costa Rica
-https://live2.zktsva.app/live/307240.m3u8
-#EXTINF:-1 group-title="International Friendly",Peru vs Bolivia
-https://live2.zktsva.app/live/796315.m3u8
-#EXTINF:-1 group-title="Panda Cup",Vietnam U19 vs South Korea U19
-https://live2.zktsva.app/live/294335.m3u8
 #EXTINF:-1 group-title="International Friendly",Thailand U23 vs Singapore U23
 https://live2.zktsva.app/live/301238.m3u8
 #EXTINF:-1 group-title="Aus Champ",Bayswater City vs Sydney Olympic
 https://live2.zktsva.app/live/741294.m3u8
+#EXTINF:-1 group-title="SAFF Championship",India vs Bhutan
+https://live2.zktsva.app/live/294335.m3u8
 #EXTINF:-1 group-title="International Friendly",Japan vs Brazil
 https://live2.zktsva.app/live/432017.m3u8
-#EXTINF:-1 group-title="Panda Cup",China U19 vs Tajikistan U19
-https://live2.zktsva.app/live/289650.m3u8
+#EXTINF:-1 group-title="CFA Team China International Tournament",China vs Malaysia
+https://live2.zktsva.app/live/306290.m3u8
 #EXTINF:-1 group-title="International Friendly",Vietnam U23 vs Qatar U23
 https://live2.zktsva.app/live/304565.m3u8
 #EXTINF:-1 group-title="Thai King's Cup",Thailand vs Brunei Darussalam
@@ -23,3 +17,9 @@ https://live2.zktsva.app/live/301263.m3u8
 https://live2.zktsva.app/live/303098.m3u8
 #EXTINF:-1 group-title="Spanish Segunda Division",Real Valladolid CF vs Castellon
 https://live2.zktsva.app/live/300523.m3u8
+#EXTINF:-1 group-title="UEFA Nations League",Kosovo vs Israel
+https://live2.zktsva.app/live/307240.m3u8
+#EXTINF:-1 group-title="SAFF Championship",Bangladesh vs Pakistan
+https://live2.zktsva.app/live/796315.m3u8
+#EXTINF:-1 group-title="Spanish Segunda Division",Real Sociedad B vs Sporting Gijon
+https://live2.zktsva.app/live/289650.m3u8
