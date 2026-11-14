@@ -1,25 +1,25 @@
 #EXTM3U
-#EXTINF:-1 group-title="UEFA Nations League",Serbia vs Germany
-https://live2.zktsva.app/live/304565.m3u8
-#EXTINF:-1 group-title="UEFA Nations League",Netherlands vs Greece
-https://live2.zktsva.app/live/294335.m3u8
-#EXTINF:-1 group-title="CAF Africa Cup of Nations",Morocco vs Niger
-https://live2.zktsva.app/live/307240.m3u8
-#EXTINF:-1 group-title="UEFA Nations League",Scotland vs North Macedonia
-https://live2.zktsva.app/live/301238.m3u8
-#EXTINF:-1 group-title="UEFA Nations League",Slovenia vs Switzerland
-https://live2.zktsva.app/live/432017.m3u8
-#EXTINF:-1 group-title="UEFA Nations League",Slovakia vs Faroe Islands
-https://live2.zktsva.app/live/300523.m3u8
-#EXTINF:-1 group-title="UEFA Nations League",Luxembourg vs Estonia
-https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 group-title="UEFA Nations League",Bulgaria vs Iceland
-https://live2.zktsva.app/live/796315.m3u8
-#EXTINF:-1 group-title="UEFA Nations League",Andorra vs Gibraltar
-https://live2.zktsva.app/live/289650.m3u8
 #EXTINF:-1 group-title="International Friendly",Colombia vs Chile
 https://live2.zktsva.app/live/306290.m3u8
+#EXTINF:-1 group-title="International Friendly",Ecuador vs Costa Rica
+https://live2.zktsva.app/live/307240.m3u8
+#EXTINF:-1 group-title="International Friendly",Peru vs Bolivia
+https://live2.zktsva.app/live/796315.m3u8
+#EXTINF:-1 group-title="Panda Cup",Vietnam U19 vs South Korea U19
+https://live2.zktsva.app/live/294335.m3u8
+#EXTINF:-1 group-title="International Friendly",Thailand U23 vs Singapore U23
+https://live2.zktsva.app/live/301238.m3u8
+#EXTINF:-1 group-title="Aus Champ",Bayswater City vs Sydney Olympic
+https://live2.zktsva.app/live/741294.m3u8
+#EXTINF:-1 group-title="International Friendly",Japan vs Brazil
+https://live2.zktsva.app/live/432017.m3u8
+#EXTINF:-1 group-title="Panda Cup",China U19 vs Tajikistan U19
+https://live2.zktsva.app/live/289650.m3u8
+#EXTINF:-1 group-title="International Friendly",Vietnam U23 vs Qatar U23
+https://live2.zktsva.app/live/304565.m3u8
 #EXTINF:-1 group-title="Thai King's Cup",Thailand vs Brunei Darussalam
 https://live2.zktsva.app/live/301263.m3u8
 #EXTINF:-1 group-title="United Arab Emirates ADIB Cup",Al Dhafra FC vs Ajman
 https://live2.zktsva.app/live/303098.m3u8
+#EXTINF:-1 group-title="Spanish Segunda Division",Real Valladolid CF vs Castellon
+https://live2.zktsva.app/live/300523.m3u8
