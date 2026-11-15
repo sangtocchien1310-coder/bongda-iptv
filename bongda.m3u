@@ -1,25 +1,25 @@
 #EXTM3U
-#EXTINF:-1 group-title="Mexico Liga MX",Queretaro FC vs Rayados de Monterrey
-https://live2.zktsva.app/live/307240.m3u8
-#EXTINF:-1 group-title="Brazilian Serie A",Chapecoense - SC vs Vasco da Gama Saf - RJ
-https://live2.zktsva.app/live/796315.m3u8
-#EXTINF:-1 group-title="CONCACAF Nations League",Saint Vincent and the Grenadines vs Belize
-https://live2.zktsva.app/live/306290.m3u8
-#EXTINF:-1 group-title="International Friendly",New Zealand vs India
-https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 group-title="Japanese J2 League",Hokkaido Consadole Sapporo vs Sagan Tosu
-https://live2.zktsva.app/live/303098.m3u8
-#EXTINF:-1 group-title="Australia W-League",Canberra United Women vs Brisbane Roar Women
-https://live2.zktsva.app/live/300523.m3u8
-#EXTINF:-1 group-title="J.League Yamazaki Biscuit Levain Cup",Machida Zelvia vs Vissel Kobe
-https://live2.zktsva.app/live/294335.m3u8
 #EXTINF:-1 group-title="J.League Yamazaki Biscuit Levain Cup",Kashima Antlers vs Yokohama F. Marinos
 https://live2.zktsva.app/live/741294.m3u8
 #EXTINF:-1 group-title="J.League Yamazaki Biscuit Levain Cup",Cerezo Osaka vs Urawa Red Diamonds
 https://live2.zktsva.app/live/301238.m3u8
+#EXTINF:-1 group-title="Chinese Football League 1",Guizhou Guiyang Athletic vs Dingnan United
+https://live2.zktsva.app/live/796315.m3u8
 #EXTINF:-1 group-title="J.League Yamazaki Biscuit Levain Cup",Kashiwa Reysol vs Kawasaki Frontale
 https://live2.zktsva.app/live/432017.m3u8
+#EXTINF:-1 group-title="Greek Super League 2",Apollon Kalamarias F.C. vs Kallithea
+https://live2.zktsva.app/live/306290.m3u8
 #EXTINF:-1 group-title="Liga Portugal 2",CD Tondela vs SC Farense
 https://live2.zktsva.app/live/301263.m3u8
-#EXTINF:-1 group-title="International Friendly",Kyrgyzstan vs Vietnam
+#EXTINF:-1 group-title="Russian First League",FC Ufa vs Spartak Kostroma
+https://live2.zktsva.app/live/307240.m3u8
+#EXTINF:-1 group-title="United Arab Emirates ADIB Cup",Dubai United vs Al-Sharjah
+https://live2.zktsva.app/live/303098.m3u8
+#EXTINF:-1 group-title="United Arab Emirates ADIB Cup",Al Wahda(UAE) vs Khor Fakkan SSC
 https://live2.zktsva.app/live/304565.m3u8
+#EXTINF:-1 group-title="Spanish Segunda Division",Tenerife vs AD Ceuta
+https://live2.zktsva.app/live/300523.m3u8
+#EXTINF:-1 group-title="Russian First League",FC Sochi vs Shinnik Yaroslavl
+https://live2.zktsva.app/live/294335.m3u8
+#EXTINF:-1 group-title="English FA Women's Super League",Aston Villa Women vs Birmingham Women
+https://live2.zktsva.app/live/289650.m3u8
