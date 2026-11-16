@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="CONCACAF Nations League",Panama vs Curacao
-https://live2.zktsva.app/live/306290.m3u8
-#EXTINF:-1 group-title="Uruguay Primera Division",Defensor Sporting Montevideo vs CA Penarol
-https://live2.zktsva.app/live/307240.m3u8
-#EXTINF:-1 group-title="Mexico Liga MX Femenil",Monterrey Women vs Pachuca Women
-https://live2.zktsva.app/live/796315.m3u8
-#EXTINF:-1 group-title="Mexico Liga MX Femenil",Toluca Women vs Club America Women
-https://live2.zktsva.app/live/741294.m3u8
 #EXTINF:-1 group-title="Serbian Mozzart Bet Prva Liga",Bor 1919 vs Semendrija 1924
 https://live2.zktsva.app/live/301263.m3u8
 #EXTINF:-1 group-title="Serbian Mozzart Bet Prva Liga",FK Graficar Beograd vs FK Vozdovac Beograd
@@ -19,7 +11,15 @@ https://live2.zktsva.app/live/304565.m3u8
 https://live2.zktsva.app/live/294335.m3u8
 #EXTINF:-1 group-title="CAF Africa Cup of Nations",Zimbabwe vs Equatorial Guinea
 https://live2.zktsva.app/live/432017.m3u8
+#EXTINF:-1 group-title="CAF U17 Championship",Tunisia U17 vs Morocco U17
+https://live2.zktsva.app/live/796315.m3u8
 #EXTINF:-1 group-title="Elite League U20",Italy U20 vs Switzerland U20
 https://live2.zktsva.app/live/303098.m3u8
+#EXTINF:-1 group-title="Elite League U20",Czechia Republic U20 vs Germany U20
+https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 group-title="UEFA Nations League",Faroe Islands vs Moldova
 https://live2.zktsva.app/live/301238.m3u8
+#EXTINF:-1 group-title="UEFA Nations League",Kazakhstan vs Slovakia
+https://live2.zktsva.app/live/306290.m3u8
+#EXTINF:-1 group-title="CAF Africa Cup of Nations",Central African Republic vs Benin
+https://live2.zktsva.app/live/741294.m3u8
