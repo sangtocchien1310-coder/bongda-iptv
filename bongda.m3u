@@ -1,25 +1,25 @@
 #EXTM3U
-#EXTINF:-1 group-title="Serbian Mozzart Bet Prva Liga",Bor 1919 vs Semendrija 1924
-https://live2.zktsva.app/live/301263.m3u8
-#EXTINF:-1 group-title="Serbian Mozzart Bet Prva Liga",FK Graficar Beograd vs FK Vozdovac Beograd
-https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 group-title="CAF U17 Championship",Algeria U17 vs Egypt U17
-https://live2.zktsva.app/live/300523.m3u8
-#EXTINF:-1 group-title="CAF Africa Cup of Nations",Namibia vs Cameroon
-https://live2.zktsva.app/live/304565.m3u8
-#EXTINF:-1 group-title="CAF Africa Cup of Nations",Sudan vs Senegal
-https://live2.zktsva.app/live/294335.m3u8
-#EXTINF:-1 group-title="CAF Africa Cup of Nations",Zimbabwe vs Equatorial Guinea
-https://live2.zktsva.app/live/432017.m3u8
-#EXTINF:-1 group-title="CAF U17 Championship",Tunisia U17 vs Morocco U17
-https://live2.zktsva.app/live/796315.m3u8
-#EXTINF:-1 group-title="Elite League U20",Italy U20 vs Switzerland U20
-https://live2.zktsva.app/live/303098.m3u8
-#EXTINF:-1 group-title="Elite League U20",Czechia Republic U20 vs Germany U20
-https://live2.zktsva.app/live/307240.m3u8
-#EXTINF:-1 group-title="UEFA Nations League",Faroe Islands vs Moldova
+#EXTINF:-1 group-title="UEFA Nations League",Iceland vs Luxembourg
 https://live2.zktsva.app/live/301238.m3u8
-#EXTINF:-1 group-title="UEFA Nations League",Kazakhstan vs Slovakia
-https://live2.zktsva.app/live/306290.m3u8
+#EXTINF:-1 group-title="UEFA Nations League",Estonia vs Bulgaria
+https://live2.zktsva.app/live/301263.m3u8
+#EXTINF:-1 group-title="UEFA Nations League",Lithuania vs Liechtenstein
+https://live2.zktsva.app/live/796315.m3u8
+#EXTINF:-1 group-title="Elite League U20",Portugal U20 vs England U20
+https://live2.zktsva.app/live/300523.m3u8
+#EXTINF:-1 group-title="CAF Africa Cup of Nations",Eritrea vs Guinea
+https://live2.zktsva.app/live/303098.m3u8
 #EXTINF:-1 group-title="CAF Africa Cup of Nations",Central African Republic vs Benin
 https://live2.zktsva.app/live/741294.m3u8
+#EXTINF:-1 group-title="UEFA European U21 Championship qualification",Greece U21 vs Iceland U21
+https://live2.zktsva.app/live/289650.m3u8
+#EXTINF:-1 group-title="UEFA Nations League",Germany vs Netherlands
+https://live2.zktsva.app/live/304565.m3u8
+#EXTINF:-1 group-title="UEFA Nations League",Switzerland vs Scotland
+https://live2.zktsva.app/live/294335.m3u8
+#EXTINF:-1 group-title="UEFA Nations League",North Macedonia vs Slovenia
+https://live2.zktsva.app/live/432017.m3u8
+#EXTINF:-1 group-title="CONCACAF Nations League",Martinique vs Aruba
+https://live2.zktsva.app/live/307240.m3u8
+#EXTINF:-1 group-title="CONCACAF Nations League",Canada vs Guatemala
+https://live2.zktsva.app/live/306290.m3u8
