@@ -1,25 +1,25 @@
 #EXTM3U
-#EXTINF:-1 group-title="CAF Africa Cup of Nations",Liberia vs Cabo Verde
-https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 group-title="CAF Africa Cup of Nations",Botswana vs Uganda
-https://live2.zktsva.app/live/432017.m3u8
-#EXTINF:-1 group-title="CAF Africa Cup of Nations",Republic of the Congo vs Comoros
-https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 group-title="UEFA Nations League",Denmark vs Norway
-https://live2.zktsva.app/live/294335.m3u8
-#EXTINF:-1 group-title="UEFA Nations League",Wales vs Portugal
-https://live2.zktsva.app/live/304565.m3u8
-#EXTINF:-1 group-title="UEFA Nations League",Ukraine vs Georgia
-https://live2.zktsva.app/live/303098.m3u8
-#EXTINF:-1 group-title="UEFA Nations League",Hungary vs Northern Ireland
-https://live2.zktsva.app/live/301238.m3u8
-#EXTINF:-1 group-title="UEFA Nations League",Israel vs Austria
-https://live2.zktsva.app/live/796315.m3u8
-#EXTINF:-1 group-title="UEFA Nations League",Ireland vs Kosovo
-https://live2.zktsva.app/live/301263.m3u8
-#EXTINF:-1 group-title="UEFA Nations League",Poland vs Sweden
-https://live2.zktsva.app/live/300523.m3u8
-#EXTINF:-1 group-title="CAF Africa Cup of Nations",Niger vs Morocco
+#EXTINF:-1 group-title="International Friendly",Ecuador vs Bolivia
 https://live2.zktsva.app/live/307240.m3u8
-#EXTINF:-1 group-title="International Friendly",Chile vs Colombia
+#EXTINF:-1 group-title="CONCACAF Nations League",USA vs Haiti
+https://live2.zktsva.app/live/796315.m3u8
+#EXTINF:-1 group-title="CONCACAF Nations League",Mexico vs Jamaica
 https://live2.zktsva.app/live/306290.m3u8
+#EXTINF:-1 group-title="CONCACAF Nations League",Nicaragua vs Montserrat
+https://live2.zktsva.app/live/741294.m3u8
+#EXTINF:-1 group-title="Women Empowerment League",Cerezo Osaka Sakai vs Urawa Red Diamonds Ladies Women
+https://live2.zktsva.app/live/303098.m3u8
+#EXTINF:-1 group-title="Women Empowerment League",Sanfrecce Hiroshima Regina Women vs Nojima Stella Kanagawa Sagamihara Women
+https://live2.zktsva.app/live/289650.m3u8
+#EXTINF:-1 group-title="Korean WK League",Suwon FC Women vs Gyeongju Korea Hydro & Nuclear Power WFC Women
+https://live2.zktsva.app/live/300523.m3u8
+#EXTINF:-1 group-title="Asean Club Championship Shopee Cup",Cong An Ho Chi Minh City vs Buriram United
+https://live2.zktsva.app/live/294335.m3u8
+#EXTINF:-1 group-title="Asean Club Championship Shopee Cup",Tampines Rovers FC vs Ratchaburi FC
+https://live2.zktsva.app/live/304565.m3u8
+#EXTINF:-1 group-title="Asean Club Championship Shopee Cup",Borneo FC Samarinda vs Manila Digger FC
+https://live2.zktsva.app/live/301238.m3u8
+#EXTINF:-1 group-title="Mozzart Serbian Cup",FK Dubocica vs Radnicki Nis
+https://live2.zktsva.app/live/301263.m3u8
+#EXTINF:-1 group-title="FIFA U17 World Cup",New Caledonia U17 vs Ecuador U17
+https://live2.zktsva.app/live/432017.m3u8
