@@ -1,12 +1,8 @@
 #EXTM3U
-#EXTINF:-1 group-title="Brazilian Serie A",Grêmio - RS vs Bahia - BA
+#EXTINF:-1 group-title="Aus Champ",Preston Lions vs South Hobart
 https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 group-title="Brazilian Serie A",Remo - PA vs Chapecoense - SC
-https://live2.zktsva.app/live/306290.m3u8
-#EXTINF:-1 group-title="Brazilian Serie A",Cruzeiro - MG vs Palmeiras - SP
+#EXTINF:-1 group-title="Aus Champ",Queensland Lions SC vs South Coast Wolves
 https://live2.zktsva.app/live/796315.m3u8
-#EXTINF:-1 group-title="Brazilian Serie A",Corinthians - SP vs Botafogo - RJ
-https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 group-title="Azerbaijan First Division",FK MOIK Baku vs Sabail FC
 https://live2.zktsva.app/live/303098.m3u8
 #EXTINF:-1 group-title="Azerbaijan First Division",Mingachevir vs Baku Sporting FK
@@ -19,7 +15,11 @@ https://live2.zktsva.app/live/301238.m3u8
 https://live2.zktsva.app/live/304565.m3u8
 #EXTINF:-1 group-title="Asean Club Championship Shopee Cup",Cong An Ha Noi FC vs Johor Darul Ta'zim FC
 https://live2.zktsva.app/live/294335.m3u8
+#EXTINF:-1 group-title="United Arab Emirates Adnoc Pro-League",Al-Wasl SC vs Hatta
+https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 group-title="FIFA U17 World Cup",France U17 vs Haiti U17
 https://live2.zktsva.app/live/300523.m3u8
 #EXTINF:-1 group-title="FIFA U17 World Cup",New Caledonia U17 vs Ecuador U17
 https://live2.zktsva.app/live/432017.m3u8
+#EXTINF:-1 group-title="Brazilian Serie A",Vasco da Gama Saf - RJ vs Internacional - RS
+https://live2.zktsva.app/live/306290.m3u8
