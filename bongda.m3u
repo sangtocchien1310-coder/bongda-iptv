@@ -1,25 +1,23 @@
 #EXTM3U
-#EXTINF:-1 group-title="UEFA Women's Champions League",Austria Wien Women vs Bayern Munchen Women
-https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 group-title="UEFA Women's Champions League",Paris FC Women vs HB Koge 's Women
-https://live2.zktsva.app/live/294335.m3u8
-#EXTINF:-1 group-title="Egyptian Scores Cup",ZED FC vs Smouha SC
-https://live2.zktsva.app/live/300523.m3u8
-#EXTINF:-1 group-title="Uruguay Primera Division",CA Boston River vs Deportivo Maldonado
-https://live2.zktsva.app/live/432017.m3u8
-#EXTINF:-1 group-title="UEFA Women's Champions League",Arsenal Women vs OL Lyonnes Women
-https://live2.zktsva.app/live/301238.m3u8
-#EXTINF:-1 group-title="UEFA Women's Champions League",Barcelona Women vs Servette Women
-https://live2.zktsva.app/live/303098.m3u8
-#EXTINF:-1 group-title="UEFA Women's Champions League",SL Benfica Women	 vs AS Roma Women
-https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 group-title="Brazilian Serie A",Vitória - BA vs Red Bull Bragantino
-https://live2.zktsva.app/live/307240.m3u8
-#EXTINF:-1 group-title="Brazilian Serie A",Vasco da Gama Saf - RJ vs Internacional - RS
-https://live2.zktsva.app/live/306290.m3u8
 #EXTINF:-1 group-title="Brazilian Serie A",São Paulo - SP vs Fluminense - RJ
 https://live2.zktsva.app/live/796315.m3u8
 #EXTINF:-1 group-title="United States Major League Soccer",Orlando City vs FC Cincinnati
 https://live2.zktsva.app/live/301263.m3u8
+#EXTINF:-1 group-title="United States Major League Soccer",Seattle Sounders vs Real Salt Lake
+https://live2.zktsva.app/live/307240.m3u8
+#EXTINF:-1 group-title="Indonesian Super League",Garudayaksa FC vs Madura United
+https://live2.zktsva.app/live/303098.m3u8
+#EXTINF:-1 group-title="Indonesian Super League",PSS Sleman vs Arema FC
+https://live2.zktsva.app/live/301238.m3u8
+#EXTINF:-1 group-title="Aus Champ",South Melbourne vs Canberra FC
+https://live2.zktsva.app/live/432017.m3u8
+#EXTINF:-1 group-title="Aus Champ",Sydney United 58 FC vs Sutherland Sharks
+https://live2.zktsva.app/live/300523.m3u8
+#EXTINF:-1 group-title="Australia A-League",Western Sydney Wanderers FC vs Adelaide United
+https://live2.zktsva.app/live/741294.m3u8
 #EXTINF:-1 group-title="Japanese J1 League",Kashiwa Reysol vs JEF United Ichihara Chiba
 https://live2.zktsva.app/live/304565.m3u8
+#EXTINF:-1 group-title="Japanese J1 League",Kashima Antlers vs Shimizu S-Pulse
+https://live2.zktsva.app/live/289650.m3u8
+#EXTINF:-1 group-title="Azerbaijan Premier League",İmişli FK vs Zira FK
+https://live2.zktsva.app/live/306290.m3u8
