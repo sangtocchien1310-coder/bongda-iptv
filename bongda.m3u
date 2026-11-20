@@ -1,23 +1,25 @@
 #EXTM3U
-#EXTINF:-1 group-title="AFC U17 Asian Cup",Chinese Taipei U17 vs Hong Kong U17
-https://live2.zktsva.app/live/301263.m3u8
-#EXTINF:-1 group-title="Indonesian Super League",Garudayaksa FC vs Madura United
-https://live2.zktsva.app/live/303098.m3u8
-#EXTINF:-1 group-title="Indonesian Super League",PSS Sleman vs Arema FC
+#EXTINF:-1 group-title="FIFA U17 World Cup",Senegal U17 vs Croatia U17
 https://live2.zktsva.app/live/301238.m3u8
-#EXTINF:-1 group-title="Aus Champ",South Melbourne vs Canberra FC
-https://live2.zktsva.app/live/432017.m3u8
-#EXTINF:-1 group-title="Aus Champ",Sydney United 58 FC vs Sutherland Sharks
-https://live2.zktsva.app/live/300523.m3u8
-#EXTINF:-1 group-title="Australia A-League",Western Sydney Wanderers FC vs Adelaide United
-https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 group-title="Malaysian Super League",Negeri Sembilan vs Kuching City FC
+#EXTINF:-1 group-title="Romanian Super Liga",FC Botosani vs FC Voluntari
 https://live2.zktsva.app/live/796315.m3u8
-#EXTINF:-1 group-title="Japanese J1 League",Vissel Kobe vs Mito Hollyhock
-https://live2.zktsva.app/live/307240.m3u8
-#EXTINF:-1 group-title="Japanese J1 League",Kashiwa Reysol vs JEF United Ichihara Chiba
-https://live2.zktsva.app/live/304565.m3u8
-#EXTINF:-1 group-title="Japanese J1 League",Kashima Antlers vs Shimizu S-Pulse
+#EXTINF:-1 group-title="FIFA U17 World Cup",Fiji U17 vs Morocco U17
+https://live2.zktsva.app/live/303098.m3u8
+#EXTINF:-1 group-title="FIFA U17 World Cup",Cote d'Ivoire U17 vs Uzbekistan U17
+https://live2.zktsva.app/live/301263.m3u8
+#EXTINF:-1 group-title="Ukrainian Premier League",FC Shakhtar Donetsk vs FC Livyi Bereh
 https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 group-title="Vietnam National Champion League",CLB Thanh Hoa vs Hoang Anh Gia Lai
+#EXTINF:-1 group-title="Russian Premier League",FK Rostov vs Krylya Sovetov
+https://live2.zktsva.app/live/741294.m3u8
+#EXTINF:-1 group-title="Bundesliga",FC Bayern Munich vs FC Köln
+https://live2.zktsva.app/live/300523.m3u8
+#EXTINF:-1 group-title="French Ligue 1",Troyes vs Havre Athletic Club
+https://live2.zktsva.app/live/304565.m3u8
+#EXTINF:-1 group-title="Belgian Pro League",Cercle Brugge vs KVC Westerlo
+https://live2.zktsva.app/live/432017.m3u8
+#EXTINF:-1 group-title="Categoría Primera A",Atletico Bucaramanga vs America de Cali
 https://live2.zktsva.app/live/306290.m3u8
+#EXTINF:-1 group-title="Mexico Liga MX",Puebla vs Atletico San Luis
+https://live2.zktsva.app/live/307240.m3u8
+#EXTINF:-1 group-title="Vietnam National Champion League",Thep Xanh Nam Dinh FC vs XM Hai Phong FC
+https://live2.zktsva.app/live/294335.m3u8
