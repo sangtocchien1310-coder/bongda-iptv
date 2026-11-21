@@ -1,25 +1,25 @@
 #EXTM3U
-#EXTINF:-1 group-title="English Premier League",Manchester City vs Fulham
+#EXTINF:-1 group-title="Spanish La Liga",Real Madrid vs RC Celta
 https://live2.zktsva.app/live/304565.m3u8
-#EXTINF:-1 group-title="Vietnam National Champion League",Thep Xanh Nam Dinh FC vs XM Hai Phong FC
-https://live2.zktsva.app/live/294335.m3u8
-#EXTINF:-1 group-title="Vietnam National Champion League",Dong Nai vs Hanoi FC
-https://live2.zktsva.app/live/301238.m3u8
-#EXTINF:-1 group-title="German Bundesliga 2",Hannover 96 vs SpVgg Greuther Fürth
-https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 group-title="German Bundesliga 2",1. FC Nürnberg vs Eintracht Braunschweig
-https://live2.zktsva.app/live/301263.m3u8
-#EXTINF:-1 group-title="English Football League Championship",Southampton vs Derby County
-https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 group-title="Spanish La Liga",Deportivo Alavés vs RC Deportivo
-https://live2.zktsva.app/live/303098.m3u8
-#EXTINF:-1 group-title="Turkish Super League",Galatasaray vs Samsunspor
-https://live2.zktsva.app/live/307240.m3u8
-#EXTINF:-1 group-title="Italian Serie A",Como vs Cagliari
-https://live2.zktsva.app/live/796315.m3u8
-#EXTINF:-1 group-title="Bundesliga",Borussia Monchengladbach vs Borussia Dortmund
+#EXTINF:-1 group-title="Italian Serie A",Napoli vs Torino
 https://live2.zktsva.app/live/300523.m3u8
-#EXTINF:-1 group-title="English Premier League",Bournemouth AFC vs Nottingham Forest
-https://live2.zktsva.app/live/306290.m3u8
-#EXTINF:-1 group-title="English Premier League",Coventry City vs Crystal Palace
+#EXTINF:-1 group-title="French Ligue 1",RC Lens vs Toulouse FC
 https://live2.zktsva.app/live/432017.m3u8
+#EXTINF:-1 group-title="French Ligue 1",LOSC Lille vs Lyon
+https://live2.zktsva.app/live/294335.m3u8
+#EXTINF:-1 group-title="French Ligue 1",AS Monaco vs AJ Auxerre
+https://live2.zktsva.app/live/741294.m3u8
+#EXTINF:-1 group-title="Mexico Liga MX",Pachuca vs Toluca
+https://live2.zktsva.app/live/307240.m3u8
+#EXTINF:-1 group-title="Mexico Liga MX",Santos Laguna vs Club Leon
+https://live2.zktsva.app/live/306290.m3u8
+#EXTINF:-1 group-title="United States Major League Soccer",Inter Miami CF vs Columbus Crew
+https://live2.zktsva.app/live/796315.m3u8
+#EXTINF:-1 group-title="Korean K League 1",Gimcheon Sangmu Football Club vs Jeju SK FC
+https://live2.zktsva.app/live/301263.m3u8
+#EXTINF:-1 group-title="Korean K League 1",Gwangju Football Club vs Bucheon FC 1995
+https://live2.zktsva.app/live/289650.m3u8
+#EXTINF:-1 group-title="Russian Premier League",Dynamo Moscow vs FK Krasnodar
+https://live2.zktsva.app/live/303098.m3u8
+#EXTINF:-1 group-title="Vietnam National Champion League",Hong Linh Ha Tinh vs Cong An Ho Chi Minh City
+https://live2.zktsva.app/live/301238.m3u8
