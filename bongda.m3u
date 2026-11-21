@@ -1,25 +1,25 @@
 #EXTM3U
-#EXTINF:-1 group-title="Australia A-League",Auckland FC vs Melbourne Victory
-https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 group-title="Mexico Liga MX",Club Tijuana vs Atlante FC
-https://live2.zktsva.app/live/307240.m3u8
-#EXTINF:-1 group-title="Korean K League 1",Jeonbuk Hyundai Motors vs FC Seoul
-https://live2.zktsva.app/live/301238.m3u8
-#EXTINF:-1 group-title="Japanese J1 League",Kawasaki Frontale vs Avispa Fukuoka
-https://live2.zktsva.app/live/796315.m3u8
-#EXTINF:-1 group-title="Japanese J1 League",Cerezo Osaka vs FC Tokyo
-https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 group-title="Australia A-League",Central Coast Mariners vs Perth Glory
-https://live2.zktsva.app/live/300523.m3u8
-#EXTINF:-1 group-title="Korean K League 1",Incheon United Club vs Ulsan HD FC
-https://live2.zktsva.app/live/306290.m3u8
-#EXTINF:-1 group-title="Korean K League 1",Gangwon FC vs Daejeon Hana Citizen
+#EXTINF:-1 group-title="English Premier League",Manchester City vs Fulham
 https://live2.zktsva.app/live/304565.m3u8
-#EXTINF:-1 group-title="Australia A-League",Brisbane Roar vs Sydney FC
-https://live2.zktsva.app/live/432017.m3u8
-#EXTINF:-1 group-title="Turkish Super League",Genclerbirligi vs Gaziantep Futbol Kulübü
-https://live2.zktsva.app/live/303098.m3u8
 #EXTINF:-1 group-title="Vietnam National Champion League",Thep Xanh Nam Dinh FC vs XM Hai Phong FC
 https://live2.zktsva.app/live/294335.m3u8
+#EXTINF:-1 group-title="Vietnam National Champion League",Dong Nai vs Hanoi FC
+https://live2.zktsva.app/live/301238.m3u8
+#EXTINF:-1 group-title="German Bundesliga 2",Hannover 96 vs SpVgg Greuther Fürth
+https://live2.zktsva.app/live/289650.m3u8
 #EXTINF:-1 group-title="German Bundesliga 2",1. FC Nürnberg vs Eintracht Braunschweig
 https://live2.zktsva.app/live/301263.m3u8
+#EXTINF:-1 group-title="English Football League Championship",Southampton vs Derby County
+https://live2.zktsva.app/live/741294.m3u8
+#EXTINF:-1 group-title="Spanish La Liga",Deportivo Alavés vs RC Deportivo
+https://live2.zktsva.app/live/303098.m3u8
+#EXTINF:-1 group-title="Turkish Super League",Galatasaray vs Samsunspor
+https://live2.zktsva.app/live/307240.m3u8
+#EXTINF:-1 group-title="Italian Serie A",Como vs Cagliari
+https://live2.zktsva.app/live/796315.m3u8
+#EXTINF:-1 group-title="Bundesliga",Borussia Monchengladbach vs Borussia Dortmund
+https://live2.zktsva.app/live/300523.m3u8
+#EXTINF:-1 group-title="English Premier League",Bournemouth AFC vs Nottingham Forest
+https://live2.zktsva.app/live/306290.m3u8
+#EXTINF:-1 group-title="English Premier League",Coventry City vs Crystal Palace
+https://live2.zktsva.app/live/432017.m3u8
