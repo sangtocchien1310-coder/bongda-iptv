@@ -1,25 +1,25 @@
 #EXTM3U
-#EXTINF:-1 group-title="Indonesian Super League",Isenmulang Kalteng vs Borneo FC Samarinda
-https://live2.zktsva.app/live/300523.m3u8
-#EXTINF:-1 group-title="Turkish Super League",Erzurumspor FK vs Goztepe
-https://live2.zktsva.app/live/432017.m3u8
-#EXTINF:-1 group-title="Russian Premier League",Dynamo Moscow vs FK Krasnodar
-https://live2.zktsva.app/live/303098.m3u8
-#EXTINF:-1 group-title="Vietnam National Champion League",Hong Linh Ha Tinh vs Cong An Ho Chi Minh City
+#EXTINF:-1 group-title="English Premier League",Hull City vs Brighton Hove Albion
 https://live2.zktsva.app/live/301238.m3u8
-#EXTINF:-1 group-title="Netherlands Eredivisie",FC Twente Enschede vs Willem II
-https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 group-title="Italian Serie A",Juventus vs Venezia
-https://live2.zktsva.app/live/294335.m3u8
-#EXTINF:-1 group-title="FIFA U17 World Cup",Denmark U17 vs Australia U17
-https://live2.zktsva.app/live/301263.m3u8
-#EXTINF:-1 group-title="FIFA U17 World Cup",Greece U17 vs Panama U17
+#EXTINF:-1 group-title="Spanish La Liga",Racing Santander vs Real Sociedad
 https://live2.zktsva.app/live/306290.m3u8
-#EXTINF:-1 group-title="Spanish La Liga",FC Barcelona vs Villarreal CF
-https://live2.zktsva.app/live/304565.m3u8
-#EXTINF:-1 group-title="FIFA U17 World Cup",France U17 vs Saudi Arabia U17
-https://live2.zktsva.app/live/307240.m3u8
-#EXTINF:-1 group-title="Netherlands Eredivisie",AFC Ajax vs ADO Den Haag
-https://live2.zktsva.app/live/289650.m3u8
+#EXTINF:-1 group-title="Bundesliga",FC Augsburg vs 1. FSV Mainz 05
+https://live2.zktsva.app/live/741294.m3u8
+#EXTINF:-1 group-title="Italian Serie A",Bologna vs Udinese
+https://live2.zktsva.app/live/300523.m3u8
 #EXTINF:-1 group-title="Italian Serie A",Sassuolo vs Genoa
 https://live2.zktsva.app/live/796315.m3u8
+#EXTINF:-1 group-title="FIFA U17 World Cup",Argentina U17 vs Mozambique U17
+https://live2.zktsva.app/live/432017.m3u8
+#EXTINF:-1 group-title="Turkish Super League",Trabzonspor vs Eyupspor
+https://live2.zktsva.app/live/307240.m3u8
+#EXTINF:-1 group-title="English Premier League",Liverpool vs Manchester United
+https://live2.zktsva.app/live/304565.m3u8
+#EXTINF:-1 group-title="English Premier League",Liverpool vs Manchester United
+https://live2.zktsva.app/live/294335.m3u8
+#EXTINF:-1 group-title="Bundesliga",SV Werder Bremen vs Hamburger SV
+https://live2.zktsva.app/live/289650.m3u8
+#EXTINF:-1 group-title="Spanish La Liga",CA Osasuna vs Malaga
+https://live2.zktsva.app/live/303098.m3u8
+#EXTINF:-1 group-title="Italian Serie A",Atalanta vs Inter Milan
+https://live2.zktsva.app/live/301263.m3u8
