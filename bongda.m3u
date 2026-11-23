@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="United States Major League Soccer",Vancouver Whitecaps vs Real Salt Lake
-https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 group-title="Mexico Liga MX",Queretaro FC vs Necaxa
-https://live2.zktsva.app/live/289650.m3u8
 #EXTINF:-1 group-title="Myanmar Professional League",Chinland FC vs Ayeyawady united
 https://live2.zktsva.app/live/301238.m3u8
 #EXTINF:-1 group-title="Ukrainian Premier League",Chornomorets Odesa vs FK Epitsentr Dunayivtsi
@@ -19,7 +15,11 @@ https://live2.zktsva.app/live/796315.m3u8
 https://live2.zktsva.app/live/301263.m3u8
 #EXTINF:-1 group-title="AFC Champions League Elite",Neftchi Fergana vs Al Hilal
 https://live2.zktsva.app/live/306290.m3u8
+#EXTINF:-1 group-title="Russian First League",FK Chelyabinsk vs FC Leningradets
+https://live2.zktsva.app/live/741294.m3u8
 #EXTINF:-1 group-title="FIFA U17 World Cup",Italy U17 vs Cote d'Ivoire U17
 https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 group-title="FIFA U17 World Cup",Vietnam U17 vs New Zealand U17
 https://live2.zktsva.app/live/304565.m3u8
+#EXTINF:-1 group-title="Sweden Allsvenskan",Orgryte vs Kalmar
+https://live2.zktsva.app/live/289650.m3u8
