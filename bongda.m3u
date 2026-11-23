@@ -1,24 +1,24 @@
 #EXTM3U
-#EXTINF:-1 group-title="Italian Serie A",Atalanta vs Inter Milan
-https://live2.zktsva.app/live/301263.m3u8
-#EXTINF:-1 group-title="Spanish La Liga",Getafe vs Atletico Madrid
-https://live2.zktsva.app/live/796315.m3u8
-#EXTINF:-1 group-title="French Ligue 1",Marseille vs Le Mans
-https://live2.zktsva.app/live/432017.m3u8
-#EXTINF:-1 group-title="Mexico Liga MX",Club Deportivo Guadalajara vs Cruz Azul
-https://live2.zktsva.app/live/306290.m3u8
-#EXTINF:-1 group-title="Mexico Liga MX",Queretaro FC vs Necaxa
-https://live2.zktsva.app/live/289650.m3u8
 #EXTINF:-1 group-title="United States Major League Soccer",Vancouver Whitecaps vs Real Salt Lake
 https://live2.zktsva.app/live/741294.m3u8
+#EXTINF:-1 group-title="Mexico Liga MX",Queretaro FC vs Necaxa
+https://live2.zktsva.app/live/289650.m3u8
 #EXTINF:-1 group-title="Myanmar Professional League",Chinland FC vs Ayeyawady united
 https://live2.zktsva.app/live/301238.m3u8
 #EXTINF:-1 group-title="Ukrainian Premier League",Chornomorets Odesa vs FK Epitsentr Dunayivtsi
 https://live2.zktsva.app/live/303098.m3u8
 #EXTINF:-1 group-title="Ukrainian Premier League",LNZ Cherkasy vs Polissya Zhytomyr
 https://live2.zktsva.app/live/294335.m3u8
+#EXTINF:-1 group-title="FIFA U17 World Cup",Spain U17 vs Fiji U17
+https://live2.zktsva.app/live/432017.m3u8
 #EXTINF:-1 group-title="FIFA U17 World Cup",Tajikistan U17 vs Croatia U17
 https://live2.zktsva.app/live/300523.m3u8
+#EXTINF:-1 group-title="Indian League Division 1",Real Kashmir FC vs Dempo
+https://live2.zktsva.app/live/796315.m3u8
+#EXTINF:-1 group-title="FIFA U17 World Cup",Senegal U17 vs Cuba U17
+https://live2.zktsva.app/live/301263.m3u8
+#EXTINF:-1 group-title="AFC Champions League Elite",Neftchi Fergana vs Al Hilal
+https://live2.zktsva.app/live/306290.m3u8
 #EXTINF:-1 group-title="FIFA U17 World Cup",Italy U17 vs Cote d'Ivoire U17
 https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 group-title="FIFA U17 World Cup",Vietnam U17 vs New Zealand U17
