@@ -1,14 +1,10 @@
 #EXTM3U
-#EXTINF:-1 group-title="Brazilian Serie A",Botafogo - RJ vs São Paulo - SP
-https://live2.zktsva.app/live/306290.m3u8
-#EXTINF:-1 group-title="Brazilian Serie A",Santos FC - SP vs Grêmio - RS
-https://live2.zktsva.app/live/307240.m3u8
-#EXTINF:-1 group-title="Costa Rica Primera Division",LD Alajuelense vs CS Cartagines
-https://live2.zktsva.app/live/301263.m3u8
 #EXTINF:-1 group-title="AFC Champions League Elite",Newcastle Jets vs Kashiwa Reysol
 https://live2.zktsva.app/live/741294.m3u8
 #EXTINF:-1 group-title="IDN LC",Garudayaksa FC vs PSS Sleman
 https://live2.zktsva.app/live/796315.m3u8
+#EXTINF:-1 group-title="IDN LC",Persebaya Surabaya vs PSBS Biak Numfor 
+https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 group-title="AFC Champions League Elite",Daejeon Hana Citizen vs Beijing Guoan
 https://live2.zktsva.app/live/301238.m3u8
 #EXTINF:-1 group-title="AFC Champions League Elite",Kyoto Sanga vs Pohang Steelers
@@ -21,5 +17,9 @@ https://live2.zktsva.app/live/294335.m3u8
 https://live2.zktsva.app/live/432017.m3u8
 #EXTINF:-1 group-title="FIFA U17 World Cup",Costa Rica U17 vs Ireland U17
 https://live2.zktsva.app/live/303098.m3u8
+#EXTINF:-1 group-title="FIFA U17 World Cup",Venezuela U17 vs Romania U17
+https://live2.zktsva.app/live/301263.m3u8
 #EXTINF:-1 group-title="FIFA U17 World Cup",Japan U17 vs Serbia U17
 https://live2.zktsva.app/live/289650.m3u8
+#EXTINF:-1 group-title="Indian Super League",Northeast United FC vs SC Delhi
+https://live2.zktsva.app/live/306290.m3u8
