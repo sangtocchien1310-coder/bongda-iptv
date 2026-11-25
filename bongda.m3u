@@ -1,25 +1,25 @@
 #EXTM3U
-#EXTINF:-1 group-title="UEFA Champions League",Galatasaray vs Aston Villa
-https://live2.zktsva.app/live/300523.m3u8
-#EXTINF:-1 group-title="UEFA Champions League",FK Bodo/Glimt vs LASK Linz
-https://live2.zktsva.app/live/432017.m3u8
-#EXTINF:-1 group-title="AFC Champions League Elite",Al Nassr vs Al-Sadd Sports Club
-https://live2.zktsva.app/live/306290.m3u8
-#EXTINF:-1 group-title="UEFA Champions League",Arsenal vs Borussia Dortmund
-https://live2.zktsva.app/live/301238.m3u8
-#EXTINF:-1 group-title="UEFA Champions League",Como vs AEK Athens
-https://live2.zktsva.app/live/301263.m3u8
-#EXTINF:-1 group-title="UEFA Champions League",Feyenoord vs FC Porto
-https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 group-title="UEFA Champions League",Manchester City vs Napoli
-https://live2.zktsva.app/live/304565.m3u8
-#EXTINF:-1 group-title="UEFA Champions League",RB Leipzig vs RC Lens
-https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 group-title="UEFA Champions League",Real Madrid vs PSV Eindhoven
-https://live2.zktsva.app/live/294335.m3u8
-#EXTINF:-1 group-title="UEFA Champions League",Slovan Bratislava vs Real Betis
-https://live2.zktsva.app/live/303098.m3u8
-#EXTINF:-1 group-title="Categoría Primera A",Millonarios vs Atletico Bucaramanga
-https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 group-title="Categoría Primera A",America de Cali vs Deportivo Cali
 https://live2.zktsva.app/live/796315.m3u8
+#EXTINF:-1 group-title="United States Major League Soccer",San Jose Earthquakes vs Houston Dynamo
+https://live2.zktsva.app/live/307240.m3u8
+#EXTINF:-1 group-title="AFC Champions League Two",Melbourne Victory vs The Cong-Viettel
+https://live2.zktsva.app/live/294335.m3u8
+#EXTINF:-1 group-title="Japanese J1 League",Mito Hollyhock vs Tokyo Verdy
+https://live2.zktsva.app/live/289650.m3u8
+#EXTINF:-1 group-title="Japanese J1 League",FC Tokyo vs Sanfrecce Hiroshima
+https://live2.zktsva.app/live/303098.m3u8
+#EXTINF:-1 group-title="Japanese J1 League",Okayama vs Shimizu S-Pulse
+https://live2.zktsva.app/live/300523.m3u8
+#EXTINF:-1 group-title="Japanese J1 League",Avispa Fukuoka vs Yokohama F. Marinos
+https://live2.zktsva.app/live/306290.m3u8
+#EXTINF:-1 group-title="Japanese J1 League",JEF United Ichihara Chiba vs Nagoya Grampus
+https://live2.zktsva.app/live/741294.m3u8
+#EXTINF:-1 group-title="Japanese J1 League",V-Varen Nagasaki vs Kawasaki Frontale
+https://live2.zktsva.app/live/432017.m3u8
+#EXTINF:-1 group-title="AFC Champions League Elite",Gamba Osaka vs Port FC
+https://live2.zktsva.app/live/304565.m3u8
+#EXTINF:-1 group-title="AFC Champions League Elite",Kashima Antlers vs Jeonbuk Hyundai Motors
+https://live2.zktsva.app/live/301238.m3u8
+#EXTINF:-1 group-title="Serbian Mozzart Bet Superliga",Radnicki Nis vs FK Zeleznicar Pancevo
+https://live2.zktsva.app/live/301263.m3u8
