@@ -1,25 +1,25 @@
 #EXTM3U
-#EXTINF:-1 group-title="Categoría Primera A",America de Cali vs Deportivo Cali
-https://live2.zktsva.app/live/796315.m3u8
-#EXTINF:-1 group-title="United States Major League Soccer",San Jose Earthquakes vs Houston Dynamo
-https://live2.zktsva.app/live/307240.m3u8
-#EXTINF:-1 group-title="AFC Champions League Two",Melbourne Victory vs The Cong-Viettel
-https://live2.zktsva.app/live/294335.m3u8
-#EXTINF:-1 group-title="Japanese J1 League",Mito Hollyhock vs Tokyo Verdy
-https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 group-title="Japanese J1 League",FC Tokyo vs Sanfrecce Hiroshima
-https://live2.zktsva.app/live/303098.m3u8
-#EXTINF:-1 group-title="Japanese J1 League",Okayama vs Shimizu S-Pulse
-https://live2.zktsva.app/live/300523.m3u8
-#EXTINF:-1 group-title="Japanese J1 League",Avispa Fukuoka vs Yokohama F. Marinos
-https://live2.zktsva.app/live/306290.m3u8
-#EXTINF:-1 group-title="Japanese J1 League",JEF United Ichihara Chiba vs Nagoya Grampus
-https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 group-title="Japanese J1 League",V-Varen Nagasaki vs Kawasaki Frontale
-https://live2.zktsva.app/live/432017.m3u8
-#EXTINF:-1 group-title="AFC Champions League Elite",Gamba Osaka vs Port FC
-https://live2.zktsva.app/live/304565.m3u8
-#EXTINF:-1 group-title="AFC Champions League Elite",Kashima Antlers vs Jeonbuk Hyundai Motors
-https://live2.zktsva.app/live/301238.m3u8
 #EXTINF:-1 group-title="Serbian Mozzart Bet Superliga",Radnicki Nis vs FK Zeleznicar Pancevo
 https://live2.zktsva.app/live/301263.m3u8
+#EXTINF:-1 group-title="IDN LC",Bali United vs Barito Putera
+https://live2.zktsva.app/live/307240.m3u8
+#EXTINF:-1 group-title="AFC Champions League Two",Persib Bandung vs FC Seoul
+https://live2.zktsva.app/live/294335.m3u8
+#EXTINF:-1 group-title="FIFA U17 World Cup",Ecuador U17 vs South Korea U17
+https://live2.zktsva.app/live/306290.m3u8
+#EXTINF:-1 group-title="FIFA U17 World Cup",Uganda U17 vs New Caledonia U17
+https://live2.zktsva.app/live/303098.m3u8
+#EXTINF:-1 group-title="UEFA Youth League",Sporting CP U19 vs Manchester United U19
+https://live2.zktsva.app/live/289650.m3u8
+#EXTINF:-1 group-title="FIFA U17 World Cup",Haiti U17 vs Saudi Arabia U17
+https://live2.zktsva.app/live/300523.m3u8
+#EXTINF:-1 group-title="FIFA U17 World Cup",Uruguay U17 vs France U17
+https://live2.zktsva.app/live/301238.m3u8
+#EXTINF:-1 group-title="AFC Champions League Two",Nasaf Qarshi vs Al Khaldiya
+https://live2.zktsva.app/live/741294.m3u8
+#EXTINF:-1 group-title="GCC Champions League",Kazma vs Erbil SC
+https://live2.zktsva.app/live/432017.m3u8
+#EXTINF:-1 group-title="FIFA U17 World Cup",Greece U17 vs Qatar U17
+https://live2.zktsva.app/live/796315.m3u8
+#EXTINF:-1 group-title="FIFA U17 World Cup",Denmark U17 vs Argentina U17
+https://live2.zktsva.app/live/304565.m3u8
