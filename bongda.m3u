@@ -1,11 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="Brazilian Serie A",Atlético Mineiro - MG vs Corinthians - SP
-https://live2.zktsva.app/live/741294.m3u8
-#EXTINF:-1 group-title="Categoría Primera A",Independiente Santa Fe vs Deportiva Once Caldas
-https://live2.zktsva.app/live/307240.m3u8
-#EXTINF:-1 group-title="Argentine Division 1",Boca Juniors vs Independiente Rivadavia
-https://live2.zktsva.app/live/306290.m3u8
-#EXTINF:-1 group-title="Guatemala Liga Nacional",CSD Municipal vs Aurora F.C.
+#EXTINF:-1 group-title="Indonesian Super League",Borneo FC Samarinda vs Persita Tangerang
 https://live2.zktsva.app/live/796315.m3u8
 #EXTINF:-1 group-title="AFC Champions League Two",Tampines Rovers FC vs Shanghai Shenhua
 https://live2.zktsva.app/live/301238.m3u8
@@ -15,6 +9,10 @@ https://live2.zktsva.app/live/301263.m3u8
 https://live2.zktsva.app/live/289650.m3u8
 #EXTINF:-1 group-title="Azerbaijan First Division",Karvan Evlakh vs Mingachevir
 https://live2.zktsva.app/live/300523.m3u8
+#EXTINF:-1 group-title="Azerbaijan First Division",Baku Sporting FK vs Shahdagh Qusar
+https://live2.zktsva.app/live/306290.m3u8
+#EXTINF:-1 group-title="AFC Champions League Two",BG Pathum United vs Lion City Sailors
+https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 group-title="AFC Champions League Two",Tai Po vs Adelaide United
 https://live2.zktsva.app/live/432017.m3u8
 #EXTINF:-1 group-title="AFC Champions League Two",Preah Khan Reach Svay Rieng FC vs Machida Zelvia
@@ -23,3 +21,5 @@ https://live2.zktsva.app/live/303098.m3u8
 https://live2.zktsva.app/live/126492.m3u8
 #EXTINF:-1 group-title="FIFA U17 World Cup",Vietnam U17 vs Mali U17
 https://live2.zktsva.app/live/294335.m3u8
+#EXTINF:-1 group-title="Russian Cup",FC Orenburg vs Spartak Moscow
+https://live2.zktsva.app/live/741294.m3u8
