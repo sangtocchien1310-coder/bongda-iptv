@@ -1,25 +1,29 @@
 #EXTM3U
-#EXTINF:-1 group-title="Indonesian Super League",Borneo FC Samarinda vs Persita Tangerang
-https://live2.zktsva.app/live/796315.m3u8
-#EXTINF:-1 group-title="AFC Champions League Two",Tampines Rovers FC vs Shanghai Shenhua
-https://live2.zktsva.app/live/301238.m3u8
-#EXTINF:-1 group-title="AFC Champions League Two",Gangwon FC vs Kitchee
-https://live2.zktsva.app/live/301263.m3u8
-#EXTINF:-1 group-title="AFC Champions League Two",Kuching City FC vs Phnom Penh Crown FC
-https://live2.zktsva.app/live/289650.m3u8
-#EXTINF:-1 group-title="Azerbaijan First Division",Karvan Evlakh vs Mingachevir
-https://live2.zktsva.app/live/300523.m3u8
-#EXTINF:-1 group-title="Azerbaijan First Division",Baku Sporting FK vs Shahdagh Qusar
-https://live2.zktsva.app/live/306290.m3u8
-#EXTINF:-1 group-title="AFC Champions League Two",BG Pathum United vs Lion City Sailors
-https://live2.zktsva.app/live/307240.m3u8
-#EXTINF:-1 group-title="AFC Champions League Two",Tai Po vs Adelaide United
-https://live2.zktsva.app/live/432017.m3u8
-#EXTINF:-1 group-title="AFC Champions League Two",Preah Khan Reach Svay Rieng FC vs Machida Zelvia
-https://live2.zktsva.app/live/303098.m3u8
 #EXTINF:-1 group-title="FIFA U17 World Cup",Vietnam U17 vs Mali U17
 https://live2.zktsva.app/live/126492.m3u8
 #EXTINF:-1 group-title="FIFA U17 World Cup",Vietnam U17 vs Mali U17
-https://live2.zktsva.app/live/294335.m3u8
+https://live2.zktsva.app/live/097815.m3u8
+#EXTINF:-1 group-title="FIFA U17 World Cup",New Zealand U17 vs Belgium U17
+https://live2.zktsva.app/live/289650.m3u8
+#EXTINF:-1 group-title="FIFA U17 World Cup",Jamaica U17 vs Cote d'Ivoire U17
+https://live2.zktsva.app/live/301263.m3u8
+#EXTINF:-1 group-title="FIFA U17 World Cup",Uzbekistan U17 vs Italy U17
+https://live2.zktsva.app/live/300523.m3u8
 #EXTINF:-1 group-title="Russian Cup",FC Orenburg vs Spartak Moscow
 https://live2.zktsva.app/live/741294.m3u8
+#EXTINF:-1 group-title="Saudi Professional League",Al Fateh vs Al Riyadh
+https://live2.zktsva.app/live/796315.m3u8
+#EXTINF:-1 group-title="FIFA U17 World Cup",China U17 vs Fiji U17
+https://live2.zktsva.app/live/307240.m3u8
+#EXTINF:-1 group-title="FIFA U17 World Cup",Morocco U17 vs Spain U17
+https://live2.zktsva.app/live/303098.m3u8
+#EXTINF:-1 group-title="Saudi Professional League",Abha vs Al Shabab
+https://live2.zktsva.app/live/306290.m3u8
+#EXTINF:-1 group-title="UEFA Champions League",FC Kairat Almaty vs Mjallby AIF
+https://live2.zktsva.app/live/432017.m3u8
+#EXTINF:-1 group-title="UEFA Europa League",Olympiacos Piraeus vs AC Milan
+https://live2.zktsva.app/live/294335.m3u8
+#EXTINF:-1 group-title="UEFA Champions League",Brighton Hove Albion vs CS Universitatea Craiova
+https://live2.zktsva.app/live/301238.m3u8
+#EXTINF:-1 group-title="FIFA U17 World Cup",Costa Rica U17 vs Brazil U17
+https://live2.zktsva.app/live/304565.m3u8
