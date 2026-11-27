@@ -1,8 +1,6 @@
 #EXTM3U
-#EXTINF:-1 group-title="Brazilian Serie A",São Paulo - SP vs Remo - PA
+#EXTINF:-1 group-title="Vietnam National First Class League",Huda Hue vs Dong Tam Long An
 https://live2.zktsva.app/live/306290.m3u8
-#EXTINF:-1 group-title="Mexico Liga MX",Pachuca vs Club Deportivo Guadalajara
-https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 group-title="Aus Champ",Broadmeadow Magic vs Queensland Lions SC
 https://live2.zktsva.app/live/301263.m3u8
 #EXTINF:-1 group-title="Australia A-League",Macarthur FC vs Melbourne City
@@ -13,6 +11,8 @@ https://live2.zktsva.app/live/289650.m3u8
 https://live2.zktsva.app/live/294335.m3u8
 #EXTINF:-1 group-title="Vietnam National Champion League",Song Lam Nghe An vs Ninh Binh FC
 https://live2.zktsva.app/live/301238.m3u8
+#EXTINF:-1 group-title="Vietnam National First Class League",Xuan Thien Phu Tho vs Lam Dong
+https://live2.zktsva.app/live/307240.m3u8
 #EXTINF:-1 group-title="Vietnam National First Class League",Thai Nguyen vs Hung Yen
 https://live2.zktsva.app/live/796315.m3u8
 #EXTINF:-1 group-title="Thai League 1",Uthai Thani Forest vs Sisaket United
